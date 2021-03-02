@@ -1,0 +1,56 @@
+Protel Design System Design Rule Check
+PCB File : Documents\GN-1738-D-V2.pcb
+Date     : 12-Sep-2013
+Time     : 14:49:03
+
+WARNING: Primitives found on Internal Planes
+       GND
+
+Processing Rule : Clearance Constraint (Gap=11.811mil) (Is a Polygon  ),(Is on net +5V )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=19.685mil) (Is a Polygon  ),(Is a Polygon  )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=196.85mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.394mil) (Max=118.11mil) (Prefered=5mil) (On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=39.37mil) (Is a Polygon  ),(has footprint J-BNC2 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=19.685mil) (Is a Polygon  ),(has footprint J-BNC4 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11.811mil) (Is a Polygon  ),(has footprint SOT-223 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11.811mil) (Is a Polygon  ),(has footprint J-DIN41612-2.54-RF-96P )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11.811mil) (Is a Polygon  ),(has footprint SOT-263-4 )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=19.685mil) (Is a Polygon  ),(Is a Keep-Out  )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Is a Polygon  ),(Is a Track/Arc Thru-Hole Pad Smd Pad  )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (Is a Polygon  ),(Is a Via  )
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:44

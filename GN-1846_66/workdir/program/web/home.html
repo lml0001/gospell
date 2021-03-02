@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!- Copyright (c) Go Ahead Software Inc., 1994-2000. All Rights Reserved. ->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Digital Front-end System</title>
+	<link href="style/doc.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/common_process.js"></script>
+    <script type="text/javascript" src="js/device_information.js"></script>
+    <script type="text/javascript">
+    	JS_InfoInitiate();
+    	document.title = JS_InfoGetModelName() + " - " + JS_InfoGetModelIPv4();
+	</script>
+</head>
+<body>
+    <table class="chrome_center" class="chrome_center" cellpadding="0" cellspacing="0" id="frame_container">
+        <tr>
+            <td align="center" >
+                <iframe frameborder="0" scrolling="no" id="TopFrame" name="TopFrame" width="1340px" height="86px" src="top.html"></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <iframe frameborder="0" scrolling="no" id="MainFrame" name="MainFrame" width="1340px" height="590px" src="information_config.html"></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <iframe frameborder="0" scrolling="no" id="BottomFrame" name="BottomFrame" width="1340px" height="64px" src="bottom.html"></iframe>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link href="/style/doc.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+		body
+		{
+			background-image: url(/graphics/bg001.gif);
+		}
+	</style>
+
+	<script type="text/javascript" src="/js/common_process.js"></script>
+
+	<script type="text/javascript" src="/js/language.js"></script>
+    
+	<script type="text/javascript" src="/js/system_parameter.js"></script>
+	<script type="text/javascript" src="/js/device_setting.js"></script>
+
+	<script type="text/javascript" src="/components/my_list_control/my_list_control.js"></script>
+
+	<script type="text/javascript" src="/js/device_information.js"></script>
+
+	<script type="text/javascript">
+    	
+		var s_BitrateListItem = null;
+		var s_Direction = "input";
+		var s_ChannelIndex = null;
+		var s_ChannelType = null;
+		var s_ChannelSubType = null;
+		var s_SubChannelNum = null;
+		var s_ChannelLimitsObj = null;
+		
+    	JS_LANInitiate(); //初始化语言脚本组件
+		JS_DevSettingInitiate(); 
+		JS_InfoInitiate();
+    	
+		function OnLoad()
+		{
+			var lTmpVar, lChnObj, lSubObj, lChnInfo, lSubInfo;
+			var i;
+			var lCount = 0;
+			
+			lTmpVar = JS_ArgGetArgs();
+			s_Direction = JS_ArgGetValueByName(lTmpVar, "direction");
+			s_ChannelIndex = parseInt(JS_ArgGetValueByName(lTmpVar, "chn_ind"), 10);
+			
+			if (s_ChannelIndex != null)
+			{
+				JS_ParamInitate(); //初始化系统参数处理脚本组件
+				if (s_Direction == "input")
+				{
+				    lChnObj = JS_ParamGetInChannelObject(s_ChannelIndex);
+				}
+				
+				s_ChannelType = JS_ParamGetChannelType(lChnObj);
+				s_ChannelSubType = JS_ParamGetChannelSubType(lChnObj);
+				s_SubChannelNum = JS_ParamGetSubChannelNum(lChnObj);
+				s_ChannelLimitsObj = JS_ParamGetChannelInfoEncoderNewLimits(lChnObj);
+
+				s_BitrateListItem = new MyListControl("s_BitrateListItem", 1950, 360, "sub_param", false);  
+			
+				s_BitrateListItem.SetColProperty(lCount++, 40, JS_LANCMN("index"), "center", "center");
+				s_BitrateListItem.SetColProperty(lCount++, 60, JS_LANCMN("ts_index"), "center", "center");
+				s_BitrateListItem.SetColProperty(lCount++, 200, JS_LAN("x_coordinate"), "center", "center"); /* X Coordinate*/
+				s_BitrateListItem.SetColProperty(lCount++, 200, JS_LAN("y_coordinate"), "center", "center"); /* y Coordinate*/
+				s_BitrateListItem.SetColProperty(lCount++, 200, JS_LAN("transparent"), "center", "center"); /* transparent */	
+				s_BitrateListItem.SetColProperty(lCount++, 70, JS_LAN("enable"), "center", "center");
+			
+				s_BitrateListItem.UpdateListFrame();
+
+				for (i = 0; i < s_SubChannelNum; i++)
+				{
+					lSubObj = JS_ParamGetSubChnObj(lChnObj, i);
+					lSubInfo = JS_ParamGetSubChannelInfoEncoderNew(lSubObj);
+					AddOSDRow(i, lSubInfo);
+				
+					lSubInfo = null; //删除对象！
+					lSubObj = null; //删除对象！
+				}
+			}
+		}
+
+		function AddOSDRow(SubIndex, Obj)
+		{
+			var lCount = 0;
+			var lHolderNode;
+
+			lHolderNode = document.createElement("input");
+			lHolderNode.type = "text";
+			lHolderNode.style.width = "35px";
+			lHolderNode.style.textAlign = "center";
+			lHolderNode.value = JS_StrLeftPading(SubIndex + 1, 3);
+			lHolderNode.defaultValue = lHolderNode.value;
+			lHolderNode.readOnly = true;
+			lHolderNode.name = "index";
+			s_BitrateListItem.SetColValue(lCount++, lHolderNode);
+
+			lHolderNode = document.createElement("input");
+			lHolderNode.type = "text";
+			lHolderNode.style.width = "55px";
+			lHolderNode.style.textAlign = "center";
+			lHolderNode.value = JS_StrLeftPading(Obj.m_TsIndex + 1, 3);
+			lHolderNode.defaultValue = lHolderNode.value;
+			lHolderNode.readOnly = true;
+			lHolderNode.name = "ts_index";
+			s_BitrateListItem.SetColValue(lCount++, lHolderNode);
+
+			lHolderNode = document.createElement("input");
+			lHolderNode.type = "text";
+			lHolderNode.style.width = "120px";
+			lHolderNode.style.textAlign = "center";
+			lHolderNode.value = Obj.m_x_coordinate;
+			lHolderNode.defaultValue = lHolderNode.value;
+			lHolderNode.id = "x_coordinate_" + SubIndex;
+			s_BitrateListItem.SetColValue(lCount++, lHolderNode);
+
+			lHolderNode = document.createElement("input");
+			lHolderNode.type = "text";
+			lHolderNode.style.width = "120px";
+			lHolderNode.style.textAlign = "center";
+			lHolderNode.value = Obj.m_y_coordinate;
+			lHolderNode.defaultValue = lHolderNode.value;
+			lHolderNode.id = "y_coordinate_" + SubIndex;
+			s_BitrateListItem.SetColValue(lCount++, lHolderNode);
+	
+			lHolderNode = document.createElement("input");
+			lHolderNode.type = "text";
+			lHolderNode.style.width = "120px";
+			lHolderNode.style.textAlign = "center";
+			lHolderNode.value = Obj.m_transparent;
+			lHolderNode.defaultValue = lHolderNode.value;
+			lHolderNode.id = "transparent_" + SubIndex;
+			s_BitrateListItem.SetColValue(lCount++, lHolderNode);
+			
+			lHolderNode = JS_UISelectCreate();
+			JS_UISelectAddOption(lHolderNode, "OFF", "OFF");
+			JS_UISelectAddOption(lHolderNode, "ON", "ON");
+			JS_UISelectSetCurIndexByValue(lHolderNode, Obj.m_enable, true);
+			lHolderNode.style.height = "18px";
+			lHolderNode.style.width = "50px";
+			lHolderNode.id = "enable_" + SubIndex;
+			s_BitrateListItem.SetColValue(lCount++, lHolderNode);
+			
+			s_BitrateListItem.AddRowToDom(false);
+		}  
+		
+		function IntRangeCheck(HtmlObj, ValLow, ValHigh) 
+        {
+            var lRegular = /^\s*-?[1-9]\d*\s*$|^\s*0\s*$/; /* 前后可以出现空格，兼容负数 */
+            var lVal;
+            
+		    if (!lRegular.test(JS_HTMLGetValue(HtmlObj))) {
+		        alert(JS_LAN("int_alert"));
+		        HtmlObj.style.borderColor = "#FF0000";
+		        return false;
+		    }
+		    lVal = parseInt(JS_HTMLGetValue(HtmlObj), 10);
+		    if (lVal < ValLow || lVal > ValHigh) {
+		        alert(JS_LAN("range") + ValLow + "~" + ValHigh);
+		        HtmlObj.style.borderColor = "#FF0000";
+		        return false;
+		    }
+		    
+		    return true;
+        }
+		
+		/* 设置参数检测 */
+        function ParamCheck(Index)
+		{
+			/*检测X 坐标范围*/
+			if (!IntRangeCheck($("x_coordinate_" + Index), s_ChannelLimitsObj.m_x_coordinateLimitLow, s_ChannelLimitsObj.m_x_coordinateLimitHigh)) 
+		        return false;
+				
+			/*检测Y 坐标范围*/
+			if (!IntRangeCheck($("y_coordinate_" + Index), s_ChannelLimitsObj.m_y_coordinateLimitLow, s_ChannelLimitsObj.m_y_coordinateLimitHigh)) 
+		        return false;
+			
+			/*检测透明度取值范围*/
+			if (!IntRangeCheck($("transparent_" + Index), s_ChannelLimitsObj.m_transparentLimitLow, s_ChannelLimitsObj.m_transparentLimitHigh)) 
+		        return false;
+				
+		    return true;
+		}
+     
+		function OnSubmit(Item)
+		{
+			var lChnObj;
+			var lSubObj;
+			var Obj;
+			var i;
+			var lBodyNode, lHolderNode;
+			var lXMLDom = JS_XMLCreateDomFromFile(null);
+			
+			lBodyNode = JS_XMLParamSetHead(lXMLDom, "io_config", "parameters", "");
+
+			JS_XMLAddTextChild(lXMLDom, lBodyNode, "chn_ind", s_ChannelIndex);
+			
+			if (s_Direction == "input")
+			{
+				JS_XMLAddTextChild(lXMLDom, lBodyNode, "direction", "IN");
+				if (s_ChannelType == "ENCODER")
+				{
+					JS_XMLAddTextChild(lXMLDom, lBodyNode, "type", s_ChannelType);
+					JS_XMLAddTextChild(lXMLDom, lBodyNode, "sub_type", s_ChannelSubType);
+					for (i = 0; i < s_SubChannelNum; i++)
+					{
+						lHolderNode = JS_XMLAddNormalChild(lXMLDom, lBodyNode, "sub_channel");
+						JS_XMLAddTextChild(lXMLDom, lHolderNode, "sub_ind", i);
+						
+						lChnObj = JS_ParamGetInChannelObject(0);
+						lSubObj = JS_ParamGetSubChnObj(lChnObj, i);
+						Obj = JS_ParamGetSubChannelInfoEncoderNew(lSubObj);
+						
+						if (ParamCheck(i)) 
+					    {
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "vi_mode", Obj.m_ViMode);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "vo_mode", Obj.m_VoMode);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "br_mode", Obj.m_BrMode);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "enc_mode", Obj.m_EncMode);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "profile", Obj.m_Profile);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "bitrate", Obj.m_Bitrate);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "prog_bitrate", Obj.m_ProgBitrate);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "gop", Obj.m_Gop);
+   
+							JS_XMLAddTextChild(lXMLDom, lHolderNode, "audio_group", Obj.m_AudioGroup);
+								
+							JS_XMLAddTextChild(lXMLDom, lHolderNode, "aud_enc_mode", Obj.m_AudEncMode);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "aud_bitrate", Obj.m_AudBitrate);
+							
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "x_coordinate", JS_HTMLGetValueByID("x_coordinate_" + i));
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "y_coordinate", JS_HTMLGetValueByID("y_coordinate_" + i));
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "transparent", JS_HTMLGetValueByID("transparent_" + i));
+						    JS_XMLAddTextChild(lXMLDom, lHolderNode, "enable", JS_HTMLGetValueByID("enable_" + i));
+
+						    if (JS_InfoIsSupportMOSIAC() == true)
+						    {
+						        JS_XMLAddTextChild(lXMLDom, lHolderNode, "mosaic_x_coordinate", Obj.m_mosaic_x_coordinate);
+						        JS_XMLAddTextChild(lXMLDom, lHolderNode, "mosaic_y_coordinate", Obj.m_mosaic_y_coordinate);
+						        JS_XMLAddTextChild(lXMLDom, lHolderNode, "mosaic_width", Obj.m_mosaic_width);
+						        JS_XMLAddTextChild(lXMLDom, lHolderNode, "mosaic_height", Obj.m_mosaic_height);
+						        JS_XMLAddTextChild(lXMLDom, lHolderNode, "mosaic_size", Obj.m_mosaic_size);
+						        JS_XMLAddTextChild(lXMLDom, lHolderNode, "mosaic_enable", Obj.m_mosaic_enable);
+						    }
+							
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "aud_sample", Obj.m_AudSample);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "volume", Obj.m_Volume);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "prog_name", Obj.m_ProgName);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "prog_number", Obj.m_ProgNumber);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "vid_pid", Obj.m_VidPid);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "aud_pid", Obj.m_AudPid);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "pcr_pid", Obj.m_PcrPid);
+                            JS_XMLAddTextChild(lXMLDom, lHolderNode, "pmt_pid", Obj.m_PmtPid);
+						    JS_XMLAddTextChild(lXMLDom, lHolderNode, "active", Obj.m_Active);
+							
+							lSubInfo = null; //删除对象！
+							lSubObj = null; //删除对象！
+						}
+						else 
+					    {
+							lSubInfo = null; //删除对象！
+							lSubObj = null; //删除对象！
+						    return;
+						}
+					}
+
+					JS_HttpPost("/goform/xmlcgipost", lXMLDom, false);
+					window.top.frames["BottomFrame"].OnShowLoadingWindow(5, true, false, "window.top.frames['MainFrame'].frames['right_frame'].location.reload()");
+				}
+			}
+		}
+
+    </script>
+</head>
+<body onload="OnLoad()">
+    <table class="chrome_center" width="850px" height="560px" border="0" align="center" cellpadding="0" cellspacing="0" id="table_whole">
+        <tr>
+            <td height="30px" align="center" background="/graphics/boxmenu_850.gif" id="setting_title"><script type="text/javascript">JS_INLAN("title")</script></td>
+        </tr>
+        <tr>
+            <td valign="top" align="center" bgcolor="#F5F9FE">
+                <div style="width:820px; height:410px; overflow:hidden;">
+                    <div id="sub_param" style="width:800px; height: 360px; overflow:hidden; padding: 5px 10px 10px 10px;">
+                    </div>
+                </div>
+            </td>
+        </tr>
+         <tr>
+            <td height="6px" bgcolor="#F5F9FE" align="center">
+				<div style="height:1px; width:800px;overflow:hidden; background:#666"></div>
+           </td>
+        </tr>
+       <tr>
+            <td valign="top" align="center" bgcolor="#F5F9FE">
+                 <div style="height: 30px;width:820px; overflow: auto;padding: 5px 20px 5px 2px; text-align:right">
+					<button type="button" onclick="OnSubmit(this);" style="width: 80px; height: 25px" id="submit" ><script type="text/javascript">JS_INCMNLAN("submit")</script></button>&nbsp;&nbsp;
+					<button type="button" onclick='location.reload();' style="width: 80px; height: 25px" id="refresh"><script type="text/javascript">JS_INCMNLAN("refresh")</script></button>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td height="13" background="/graphics/boxbottom_850.gif">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

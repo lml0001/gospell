@@ -1,0 +1,16 @@
+CP :=cp
+RM :=rm
+PWD :=$(shell pwd)
+obj-m := i2c_driver.o
+TARGET:= i2c_driver.ko
+#SHARE_DIR :=../../workdir/program/drivers
+SHARE_DIR :=../../debug
+KDIR  :=/usr/local/arm/linux-2.6.13-hzh
+all:
+	$(MAKE) -C $(KDIR) SUBDIRS=$(PWD) modules	
+	$(CP) $(TARGET) $(SHARE_DIR)/	
+clean:
+	$(RM) -rf *.ko
+	$(RM) -rf *.mod.*
+	$(RM) -rf .*.com
+	$(RM) -rf *.o

@@ -1,0 +1,25 @@
+#ifndef __TUNER_DEVICE_H__
+#define __TUNER_DEVICE_H__
+
+#define TUNER_DEV_MINOR 233
+#define TUNER_DRIVER_NAME "tuner_device"
+
+#define IOCTOL_MAGIC 'f'
+
+#define IIC_CLK_WRITE  _IOW(IOCTOL_MAGIC, 0,char) 
+#define IIC_DATA_WRITE  _IOW(IOCTOL_MAGIC, 1,char)
+
+#define IIC_DATA_READ  _IOR(IOCTOL_MAGIC, 2,char) 
+
+#define TUNER_RESET_SET  _IOW(IOCTOL_MAGIC, 3,u16) 
+#define TUNER_RESET_CLEAN  _IOW(IOCTOL_MAGIC, 4,u16) 
+#define IIC_DATA_DIR_WRITE  _IOW(IOCTOL_MAGIC, 5,char)
+
+#define LNB_SEL13OR18_WRITE _IOW(IOCTOL_MAGIC, 6,char)
+#define LNB_POWER_EN_WRITE  _IOW(IOCTOL_MAGIC, 7,char)
+
+#define IOCTL_MAXNR 8
+
+#define SDA_DIR_IN 0
+#define SDA_DIR_OUT 1
+#endif

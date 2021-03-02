@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/app/multi_frp_card.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_main_internal.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_main_xml_ass.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_private.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_snmp.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_ts_backup.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/app/multi_tsp.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3519V101/encoder_3519.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3519V101/encoder_3519.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3531A/encoder_3531A.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3531A/encoder_3531A.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3531A/sample_comm.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3531A/sample_comm_venc.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3531A/sample_comm_vi.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_3531A/sample_comm_vpss.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_audio_enc/audio_enc.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_encoder/encoder_es2ts/os_assist.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_hdmi_recv_adv7612/hdmi_rx.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_hdmi_recv_adv7612/hdmi_rx.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_hdmi_recv_lt6911c/LT6911C.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/hwl_hdmi_recv_lt6911c/hdmi_rx.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/liu_iic.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/multi_hwl_monitor.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hwl/tvp5146.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../GN-1846_66B/lib/GN1846/lib_adv7612/adv7612.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../workspace/include/net_snmp_warp.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../workspace/include_global/global_config.mak" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../workspace/include_global/platform_conf.h" charset="GBK" />
+  </component>
+</project>

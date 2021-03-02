@@ -1,0 +1,1113 @@
+Importer Log Report
+Project : GN-1876-HI3519AV100_V1.PRJPCB
+
+Section : Document - F:\PCB\Project\GN-1876\DXP\GN-1876-HI3519AV100_V1.DSN
+    Section : Load Messages
+    EndSection
+
+    Section : Importing Library - GN-1876-HI3519AV100_V1_Library.SchLib
+    EndSection
+
+    Section : Importing Sheet - P19 Connect.SchDoc
+        Warning : Junction at (93.98mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,101.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,25.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,27.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,30.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,33.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,35.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,40.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,43.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,45.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,48.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,50.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (93.98mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (378.46mm,274.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (264.16mm,22.86mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P18 Level Switch.SchDoc
+        Warning : Power Port of type 3V3 at (251.46mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (269.24mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (322.58mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (149.86mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (152.4mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (111.76mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (111.76mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (154.94mm,184.15mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (104.14mm,182.88mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (154.94mm,143.51mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (104.14mm,142.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (154.94mm,100.33mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (104.14mm,99.06mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (154.94mm,54.61mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (104.14mm,53.34mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (309.88mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (271.78mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (353.06mm,127mm) was replaced with Arrow style port
+        Warning : Junction at (269.24mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (322.58mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (111.76mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (149.86mm,266.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (111.76mm,266.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (104.14mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (166.37mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (90.17mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (104.14mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (166.37mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (90.17mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (104.14mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (166.37mm,71.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,71.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,68.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (90.17mm,68.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (104.14mm,50.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,50.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,50.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,50.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (166.37mm,25.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (92.71mm,25.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,22.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (90.17mm,22.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,30.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,50.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,30.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (271.78mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (309.88mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (353.06mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (345.44mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.82mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (345.44mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.82mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (345.44mm,96.52mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P15 Hi3519 Config.SchDoc
+        Warning : Power Port of type 1V8 at (135.89mm,261.62mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (139.7mm,137.16mm) was replaced with Arrow style port
+        Warning : Junction at (139.7mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (143.51mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,259.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (143.51mm,259.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (135.89mm,259.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.05mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.05mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (178.05mm,233.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,233.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (143.51mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (143.51mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (151.13mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (135.89mm,238.76mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P16 System RST.SchDoc
+        Warning : Power Port of type 1V0 at (63.5mm,168.91mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (307.34mm,165.1mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (132.08mm,181.61mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (80.01mm,181.61mm) was replaced with Arrow style port
+        Warning : Junction at (132.08mm,177.8mm) has been added.
+        Warning : Junction at (132.08mm,177.8mm) has been added.
+        Warning : Junction at (168.91mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (224.79mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (170.18mm,151.13mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (63.5mm,151.13mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (307.34mm,162.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (132.08mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (79.76mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (112.78mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (112.78mm,143.51mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,143.51mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,132.59mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (170.18mm,132.59mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (224.79mm,140.97mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (271.78mm,152.15mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,138.43mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,157.23mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (320.04mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (264.16mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (96.27mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (148.59mm,132.59mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P17 SPI Flash.SchDoc
+        Warning : Power Port of type 1V8 at (168.91mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (212.09mm,167.64mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (118.11mm,226.06mm) was replaced with Arrow style port
+        Warning : Junction at (214.63mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (168.91mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (124.46mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (118.11mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (124.46mm,203.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (118.11mm,203.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (168.91mm,226.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (179.07mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (227.33mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (172.47mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (212.09mm,162.56mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P14 Hi3519 Peripheral.SchDoc
+        Warning : Power Port of type 1V0 at (121.92mm,127mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (182.88mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (187.96mm,129.54mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (41.91mm,86.36mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (41.91mm,116.84mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (41.91mm,148.59mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (391.16mm,191.77mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (175.26mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (88.9mm,165.1mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (355.6mm,210.82mm) was replaced with Arrow style port
+        Warning : Auto-Junction at (189.48mm,63.5mm) has been added. Please check if this is desirable.
+        Warning : Junction at (73.66mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (358.14mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (73.66mm,140.97mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (73.66mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,58.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,60.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (123.19mm,194.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (129.54mm,194.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (337.82mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (306.07mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (306.07mm,97.79mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (336.55mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (189.48mm,180.34mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P13 Hi3519 MIPI&I2C.SchDoc
+        Warning : Power Port of type 1V0 at (100.58mm,255.27mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (21.84mm,204.47mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (23.11mm,251.46mm) was replaced with Arrow style port
+        Warning : Junction at (51.05mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (133.6mm,166.37mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (133.6mm,168.91mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (133.6mm,171.45mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (133.6mm,163.83mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,189.23mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,186.69mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,240.03mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,242.57mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,237.49mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,222.25mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,234.95mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,232.41mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,229.87mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,227.33mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,224.79mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,199.39mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,201.93mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,217.17mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,214.63mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,212.09mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,209.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,207.01mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,204.47mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,196.85mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,194.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (131.06mm,191.77mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (49.78mm,196.85mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P12 Hi3519 RGMII&SPI.SchDoc
+        Warning : Power Port of type 1V8 at (160.02mm,88.9mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (45.72mm,234.95mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (45.72mm,199.39mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (45.72mm,156.21mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (93.98mm,78.74mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (116.84mm,114.3mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (152.4mm,205.74mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (152.4mm,208.28mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (152.4mm,223.52mm) was replaced with Arrow style port
+        Warning : Junction at (167.64mm,88.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (74.93mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (73.66mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (76.2mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (171.45mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (171.45mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (171.45mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (171.45mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (171.45mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (171.45mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (322.58mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (317.5mm,86.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (116.84mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (127mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (167.64mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (149.86mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (116.84mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (160.02mm,88.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (320.04mm,63.5mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P11 Hi3519 SYSTEM&OSC.SchDoc
+        Warning : Power Port of type 1V8 at (165.1mm,99.06mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (58.42mm,62.23mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (35.56mm,63.5mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (38.1mm,143.51mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (151.13mm,104.14mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (207.01mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (316.23mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (204.47mm,146.05mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (191.77mm,175.26mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (165.1mm,238.76mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (320.04mm,154.94mm) was replaced with Arrow style port
+        Warning : Junction at (68.58mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (207.01mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (52.07mm,215.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (35.56mm,45.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (322.58mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (320.04mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (335.28mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (327.66mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,45.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (38.1mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (78.74mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (78.74mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (173.74mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (151.13mm,83.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (68.58mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (332.74mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (325.12mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (322.58mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (320.04mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (335.28mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (363.22mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,175.26mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P10 DDR4RAM.SchDoc
+        Warning : Power Port of type OUT at (110.49mm,48.26mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (64.77mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (64.77mm,190.5mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (64.77mm,162.56mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (64.77mm,170.18mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (264.16mm,86.36mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (231.14mm,87.63mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (195.58mm,86.36mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,190.5mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (303.53mm,87.63mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (269.24mm,170.18mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,251.46mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,256.54mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (53.34mm,67.31mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (24.13mm,185.42mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (161.29mm,69.85mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (411.48mm,189.23mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (400.05mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (203.2mm,187.96mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (193.04mm,215.9mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (173.99mm,137.16mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (257.81mm,147.32mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (257.81mm,144.78mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (365.76mm,137.16mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,259.08mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,254mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (64.77mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,238.76mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,256.54mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,254mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,259.08mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,251.46mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,256.54mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (360.68mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,162.56mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (270.51mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (257.81mm,137.16mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (257.81mm,139.7mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (257.81mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (257.81mm,134.62mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (223.52mm,195.58mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (223.52mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (240.03mm,172.72mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (231.14mm,185.42mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (25.4mm,166.37mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,256.54mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,251.46mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (49.53mm,144.78mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,259.08mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,254mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,238.76mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (49.53mm,205.74mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (49.53mm,203.2mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (66.04mm,251.46mm) was replaced with Arrow style port
+        Warning : Power Port of type IN at (49.53mm,147.32mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (49.53mm,137.16mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (49.53mm,139.7mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (49.53mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (49.53mm,134.62mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,259.08mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,254mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (152.4mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (31.75mm,175.26mm) was replaced with Arrow style port
+        Warning : Auto-Junction at (270.51mm,233.68mm) has been added. Please check if this is desirable.
+        Warning : Auto-Junction at (312.42mm,60.71mm) has been added. Please check if this is desirable.
+        Warning : Auto-Junction at (405.13mm,60.71mm) has been added. Please check if this is desirable.
+        Warning : Junction at (365.76mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (374.65mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (382.27mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (389.89mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (397.51mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (303.53mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (312.42mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (320.04mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (335.28mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (344.17mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (351.79mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (359.41mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (405.13mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (327.66mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (401.32mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (396.24mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (391.16mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (406.4mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (411.48mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,203.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (379.73mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (384.81mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (389.89mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (394.97mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (400.05mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (182.88mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (182.88mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (172.72mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,203.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,69.85mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (264.16mm,69.85mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (195.58mm,69.85mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (195.58mm,67.31mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (233.68mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (25.4mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,46.99mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,46.99mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (151.13mm,48.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,48.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (397.51mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (389.89mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (382.27mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (303.53mm,60.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (319.79mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (327.66mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (335.28mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (344.17mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (351.79mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (359.41mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (365.76mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (374.65mm,60.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (350.52mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (142.24mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,27.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,26.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (90.17mm,27.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (100.33mm,27.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (266.7mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (384.81mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (389.89mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (400.05mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (394.97mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (411.48mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (406.4mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (396.24mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (401.32mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (182.88mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (279.4mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (71.12mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (90.17mm,48.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (100.33mm,48.26mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P09 DDR Control.SchDoc
+        Warning : Power Port of type DGND at (59.69mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (36.83mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (59.69mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (36.83mm,215.9mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (110.49mm,127mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (97.79mm,144.78mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,198.12mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,147.32mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,119.38mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,106.68mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,109.22mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,114.3mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,116.84mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,121.92mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,124.46mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,129.54mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,132.08mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,134.62mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,137.16mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,139.7mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,142.24mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,144.78mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,147.32mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,149.86mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,152.4mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,154.94mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,157.48mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,160.02mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,162.56mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,165.1mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,167.64mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,177.8mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,180.34mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,185.42mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,187.96mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,195.58mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,200.66mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,203.2mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,205.74mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,208.28mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,215.9mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type BI at (276.86mm,238.76mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,203.2mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,205.74mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,208.28mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,215.9mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,218.44mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,220.98mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,223.52mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,228.6mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,226.06mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,187.96mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,185.42mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,238.76mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,177.8mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,175.26mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,200.66mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,231.14mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,157.48mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,139.7mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,129.54mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (129.54mm,111.76mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (160.02mm,92.71mm) was replaced with Arrow style port
+        Warning : Junction at (110.49mm,144.78mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P08 Hi3519 GND.SchDoc
+        Warning : Power Port of type DGND at (243.84mm,215.9mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (257.81mm,92.71mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (213.36mm,72.39mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (114.3mm,95.25mm) was replaced with Arrow style port
+        Warning : Junction at (213.36mm,76.2mm) has been added.
+        Warning : Junction at (182.88mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (190.5mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (195.58mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (213.36mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (218.44mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (233.68mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (236.22mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (220.98mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (215.9mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (208.28mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (200.66mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (144.78mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (149.86mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.48mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (160.02mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (162.56mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (167.64mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (170.18mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (172.72mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (175.26mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (180.34mm,219.71mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (257.81mm,101.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (203.2mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (187.96mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (185.42mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (182.88mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (175.26mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (172.72mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (167.64mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (165.1mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (160.02mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.48mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (149.86mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (147.32mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (162.56mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (170.18mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (177.8mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (180.34mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (195.58mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (208.28mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (220.98mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (223.52mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (226.06mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (231.14mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (233.68mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (218.44mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (215.9mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (200.66mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (198.12mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (190.5mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (152.4mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (144.78mm,76.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,101.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,129.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,193.04mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,172.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,175.26mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,134.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,124.46mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,127mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,111.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,116.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (114.3mm,104.14mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P07 Hi3519 Power.SchDoc
+        Warning : Power Port of type DGND at (43.18mm,128.27mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (298.45mm,93.98mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (334.01mm,67.31mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (217.17mm,93.98mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (252.73mm,67.31mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (335.28mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (334.01mm,105.41mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (335.28mm,142.24mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (299.72mm,186.69mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (299.72mm,227.33mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (43.18mm,177.8mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (43.18mm,222.25mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (43.18mm,250.19mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (204.47mm,152.4mm) was replaced with Arrow style port
+        Warning : Power Port of type DGND at (204.47mm,177.8mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (218.44mm,214.63mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (43.18mm,157.48mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (119.38mm,172.72mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (335.28mm,209.55mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (299.72mm,212.09mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (119.38mm,237.49mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (299.72mm,168.91mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (299.72mm,255.27mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (43.18mm,204.47mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (119.38mm,213.36mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (210.82mm,236.22mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (298.45mm,132.08mm) was replaced with Arrow style port
+        Warning : Junction at (66.04mm,153.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,153.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,153.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,153.67mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,160.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,165.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,154.94mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,152.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,203.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,209.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (307.34mm,209.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,209.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (334.01mm,86.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (334.01mm,125.73mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (341.63mm,125.73mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (252.73mm,86.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,226.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,233.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (307.34mm,250.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,250.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (322.58mm,250.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,250.19mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,203.2mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,233.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,226.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,228.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (210.82mm,218.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (66.04mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (204.47mm,180.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (334.01mm,107.95mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (307.34mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (307.34mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (322.58mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (299.72mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,181.61mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,181.61mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,181.61mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (43.18mm,226.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (50.8mm,226.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (335.28mm,161.29mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P06 Power3.SchDoc
+        Warning : Power Port of type 3V3 at (22.86mm,247.65mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (254mm,246.38mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V2 at (182.88mm,101.6mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (46.99mm,99.06mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (311.15mm,242.57mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (381mm,241.3mm) was replaced with Arrow style port
+        Warning : Power Port of type OUT at (396.24mm,133.35mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (281.94mm,138.43mm) was replaced with Arrow style port
+        Warning : Junction at (254mm,243.84mm) has been added.
+        Warning : Junction at (219.71mm,238.76mm) has been added.
+        Warning : Junction at (219.71mm,214.63mm) has been added.
+        Warning : Junction at (182.88mm,96.52mm) has been added.
+        Warning : Junction at (69.85mm,236.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (119.38mm,181.61mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (196.85mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (45.72mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (39.37mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (22.86mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (30.48mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (186.69mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (196.85mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (219.71mm,243.84mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254mm,222.25mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (69.85mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (106.68mm,210.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (22.86mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (30.48mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (180.34mm,223.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (97.79mm,58.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (144.78mm,82.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,82.55mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (81.28mm,86.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (144.78mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (151.13mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.48mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (46.99mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (59.69mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (182.88mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (157.48mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (124.46mm,78.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (46.99mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (370.84mm,220.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (370.84mm,238.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (381mm,238.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (311.15mm,238.76mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (311.15mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (312.42mm,128.27mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (373.38mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (294.64mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (281.94mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (289.56mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (379.73mm,114.3mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (281.94mm,110.49mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (373.38mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (379.73mm,133.35mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (386.08mm,133.35mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P05 Power2.SchDoc
+        Warning : Power Port of type 3V3 at (49.53mm,212.09mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V0 at (212.09mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type 1V8 at (401.32mm,210.82mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (242.57mm,209.55mm) was replaced with Arrow style port
+        Warning : Junction at (212.09mm,208.28mm) has been added.
+        Warning : Junction at (180.34mm,185.42mm) has been added.
+        Warning : Junction at (212.09mm,185.42mm) has been added.
+        Warning : Junction at (85.09mm,198.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (106.68mm,157.48mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (168.91mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (55.88mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (49.53mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (64.77mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (161.29mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (168.91mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (180.34mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (186.69mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (173.99mm,208.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (49.53mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (378.46mm,187.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (280.67mm,195.58mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (365.76mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (378.46mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (391.16mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (401.32mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (260.35mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (242.57mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (252.73mm,205.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (401.32mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (242.57mm,175.26mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P04 Power1.SchDoc
+        Warning : Power Port of type 12V0 at (241.3mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 12V0 at (53.34mm,193.04mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (241.3mm,187.96mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (337.82mm,188.98mm) was replaced with Arrow style port
+        Warning : Junction at (241.3mm,185.42mm) has been added.
+        Warning : Junction at (241.3mm,160.27mm) has been added.
+        Warning : Junction at (218.44mm,162.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (101.6mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (66.04mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (74.93mm,190.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (218.44mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (233.68mm,185.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (53.34mm,166.37mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (218.44mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (236.22mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,231.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (218.44mm,246.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (109.22mm,177.8mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,185.42mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - P03 Power Tree.SchDoc
+    EndSection
+
+    Section : Importing Sheet - P02 Block Diagram.SchDoc
+    EndSection
+
+    Section : Importing Sheet - P01 Note & Title.SchDoc
+    EndSection
+
+    Section : Importing Sheet - P20 HDMI TX FPC & Hole.SchDoc
+        Warning : Power Port of type IN at (7.3in,8.8in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.3in,8.6in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.3in,8.5in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.3in,8.3in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.35in,8.2in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.35in,8in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.3in,7.9in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.3in,7.7in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.35in,7.6in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.35in,7.4in) was replaced with Arrow style port
+        Warning : Power Port of type BI at (7.3in,7.3in) was replaced with Arrow style port
+        Warning : Power Port of type IN at (7.35in,7in) was replaced with Arrow style port
+        Warning : Power Port of type 3V3 at (6.4in,6.9in) was replaced with Arrow style port
+        Warning : Junction at (6.2in,3.85in) has been added.
+        Warning : Junction at (7.65in,3.85in) has been added.
+        Warning : Junction at (7.15in,4.45in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,4.35in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,4.25in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,4.45in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.75in,4.25in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.75in,4.35in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.75in,4.45in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.15in,4.35in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.15in,4.25in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,4.25in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,4.35in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,4.45in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,9.3in) has been removed. It will be automatically calculated.
+    EndSection
+EndSection

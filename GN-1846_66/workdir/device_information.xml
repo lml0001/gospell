@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<sn><![CDATA[TC41A07FFF000511AC]]></sn>
+	<kernel_release><![CDATA[3.10.0]]></kernel_release>
+	<soft_version><![CDATA[03.51]]></soft_version>
+	<hard_version><![CDATA[01.00]]></hard_version>
+	<soft_release><![CDATA[2020-09-21]]></soft_release>
+	<fpga_release><![CDATA[2018-03-28]]></fpga_release>
+	<board_type>0</board_type>
+	<device_modle><![CDATA[GN-1846]]></device_modle>
+	<device_name>
+		<eng><![CDATA[H.264HD Encoder]]></eng>
+		<chn><![CDATA[H.264高清编码器]]></chn>
+	</device_name>
+	<manufactury><![CDATA[]]></manufactury>
+	<manufactury_web><![CDATA[]]></manufactury_web>
+	<have_manual>0</have_manual>
+	<board_type>0</board_type>
+	<license_valid>0</license_valid>
+	<license_mode>3</license_mode>
+	<application_code><![CDATA[02AEB449F96FDA50CE7C4449C55F4A8BF4822D4210A194978F49FF91C740906A8D1CD06D30DC0C66C50144F442C3002F8D1CD06D30DC0C66C50144F442C3002F8D1CD06D30DC0C66C50144F442C3002FD9AD4F08392761455F493C8F18261887432060A6D10D5A5A0BED5BF1BB1B552E482B7BC226F0183D1402D3FAE7AB9B6E]]></application_code>
+	<license_time><![CDATA[------------]]></license_time>
+	<trail_left_time>2072700</trail_left_time>
+	<platform_type>normal</platform_type>
+	<cpu_data_port>ON</cpu_data_port>
+	<wm_support>ON</wm_support>
+	<mosiac_support>ON</mosiac_support>
+</root>

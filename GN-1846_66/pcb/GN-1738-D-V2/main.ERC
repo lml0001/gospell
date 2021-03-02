@@ -1,0 +1,168 @@
+Error Report For : Documents\main.Sch    14-Sep-2013  09:21:44
+
+ #1 Warning   Unconnected Net Label On Net ASI_IN_N4
+    001_ASI_IN.Sch ASI_IN_N4 
+
+ #2 Warning   Unconnected Net Label On Net ASI_IN_P4
+    001_ASI_IN.Sch ASI_IN_P4 
+
+ #3 Warning  IO Pins And Power Pins On Net DDR_REF
+   IO Pins                  : EP4CE55_other.sch(U301-AA18 @402,335) EP4CE55_other.sch(U301-AB4 @402,365) EP4CE55_other.sch(U301-V9 @402,355) EP4CE55_other.sch(U301-V12 @402,345) 
+   Power Pins               : 006_FPGA_DDRII(U746-J2 @550,690) 
+
+ #4 Warning  IO Pins And Power Pins On Net GND
+   IO Pins                  : EP4CE55_TS.sch(U301-K20 @1135,360) EP4CE55_TS.sch(U301-L17 @1135,370) EP4CE55_TS.sch(U301-M17 @1135,390) 
+   Power Pins               : 88E1111.sch(U50-D4 @760,1370) 88E1111.sch(U50-D5 @760,1360) 88E1111.sch(U50-D6 @760,1350) 88E1111.sch(U50-E4 @760,1340) 88E1111.sch(U50-E5 @760,1330) 88E1111.sch(U50-E6 @760,1320) 88E1111.sch(U50-F4 @760,1310) 88E1111.sch(U50-F5 @760,1300) 88E1111.sch(U50-F6 @760,1290) 88E1111.sch(U50-G4 @760,1280) 88E1111.sch(U50-G5 @760,1270) 88E1111.sch(U50-G6 @760,1260) 88E1111.sch(U50-H4 @760,1250) 88E1111.sch(U50-H5 @760,1240) 88E1111.sch(U50-H6 @760,1230) 88E1111.sch(U50-H7 @760,1130) 88E1111.sch(U50-J4 @760,1220) 88E1111.sch(U50-J5 @760,1210) 88E1111.sch(U50-J6 @760,1200) 88E1111.sch(U50-K4 @760,1190) 88E1111.sch(U50-K5 @760,1180) 88E1111.sch(U50-K6 @760,1170) 88E1111.sch(U50-L5 @760,1160) 88E1111.sch(U50-L6 @760,1150) 006_FPGA_DDRII(U202-1 @850,685) EP4CE55_AH.sch(U301-A1 @940,680) EP4CE55_AH.sch(U301-A22 @940,670) EP4CE55_AH.sch(U301-AA22 @940,650) EP4CE55_AH.sch(U301-AB1 @940,640) EP4CE55_AH.sch(U301-AB22 @940,630) EP4CE55_AH.sch(U301-C5 @940,580) EP4CE55_AH.sch(U301-C9 @940,570) EP4CE55_AH.sch(U301-C11 @940,620) EP4CE55_AH.sch(U301-C12 @940,610) EP4CE55_AH.sch(U301-C14 @940,600) EP4CE55_AH.sch(U301-C16 @940,590) EP4CE55_AH.sch(U301-D3 @940,560) EP4CE55_AH.sch(U301-E18 @1100,400) EP4CE55_AH.sch(U301-E20 @940,550) EP4CE55_AH.sch(U301-F3 @940,530) EP4CE55_AH.sch(U301-F5 @1100,390) EP4CE55_AH.sch(U301-F12 @940,540) EP4CE55_AH.sch(U301-G2 @940,520) EP4CE55_AH.sch(U301-G20 @940,510) EP4CE55_AH.sch(U301-H8 @940,460) EP4CE55_AH.sch(U301-H10 @940,500) EP4CE55_AH.sch(U301-H12 @940,490) EP4CE55_AH.sch(U301-H13 @940,480) EP4CE55_AH.sch(U301-H14 @940,470) EP4CE55_AH.sch(U301-J9 @940,440) EP4CE55_AH.sch(U301-J15 @940,450) EP4CE55_AH.sch(U301-K3 @940,380) EP4CE55_AH.sch(U301-K10 @940,430) EP4CE55_AH.sch(U301-K11 @940,420) EP4CE55_AH.sch(U301-K12 @940,410) EP4CE55_AH.sch(U301-K13 @940,400) EP4CE55_AH.sch(U301-K16 @940,390) EP4CE55_AH.sch(U301-L8 @940,310) EP4CE55_AH.sch(U301-L10 @940,370) EP4CE55_AH.sch(U301-L11 @940,360) EP4CE55_AH.sch(U301-L12 @940,350) EP4CE55_AH.sch(U301-L13 @940,340) EP4CE55_AH.sch(U301-L15 @940,330) EP4CE55_AH.sch(U301-L20 @940,320) EP4CE55_AH.sch(U301-M7 @940,260) EP4CE55_AH.sch(U301-M10 @940,300) EP4CE55_AH.sch(U301-M11 @940,290) EP4CE55_AH.sch(U301-M12 @940,280) EP4CE55_AH.sch(U301-M13 @940,270) EP4CE55_AH.sch(U301-N3 @1100,630) EP4CE55_AH.sch(U301-N8 @1100,620) EP4CE55_AH.sch(U301-N10 @1100,680) EP4CE55_AH.sch(U301-N11 @1100,670) EP4CE55_AH.sch(U301-N12 @1100,660) EP4CE55_AH.sch(U301-N13 @1100,650) EP4CE55_AH.sch(U301-N15 @1100,640) EP4CE55_AH.sch(U301-P8 @1100,590) EP4CE55_AH.sch(U301-P16 @1100,610) EP4CE55_AH.sch(U301-P19 @1100,600) EP4CE55_AH.sch(U301-R7 @1100,560) EP4CE55_AH.sch(U301-R9 @1100,550) EP4CE55_AH.sch(U301-R11 @1100,580) EP4CE55_AH.sch(U301-R13 @1100,570) EP4CE55_AH.sch(U301-T8 @1100,530) EP4CE55_AH.sch(U301-T12 @1100,540) EP4CE55_AH.sch(U301-U3 @1100,520) EP4CE55_AH.sch(U301-U5 @1100,410) EP4CE55_AH.sch(U301-V18 @1100,380) EP4CE55_AH.sch(U301-V20 @1100,510) EP4CE55_AH.sch(U301-W3 @1100,500) EP4CE55_AH.sch(U301-Y5 @1100,440) EP4CE55_AH.sch(U301-Y9 @1100,430) EP4CE55_AH.sch(U301-Y11 @1100,490) EP4CE55_AH.sch(U301-Y12 @1100,480) EP4CE55_AH.sch(U301-Y16 @1100,470) EP4CE55_AH.sch(U301-Y18 @1100,460) EP4CE55_AH.sch(U301-Y20 @1100,450) 006_FPGA_DDRII(U746-A3 @330,540) 006_FPGA_DDRII(U746-A7 @330,410) 006_FPGA_DDRII(U746-B2 @330,500) 006_FPGA_DDRII(U746-B8 @330,430) 006_FPGA_DDRII(U746-D2 @330,490) 006_FPGA_DDRII(U746-D8 @330,440) 006_FPGA_DDRII(U746-E3 @330,530) 006_FPGA_DDRII(U746-E7 @330,420) 006_FPGA_DDRII(U746-F2 @330,480) 006_FPGA_DDRII(U746-F8 @330,450) 006_FPGA_DDRII(U746-H2 @330,470) 006_FPGA_DDRII(U746-H8 @330,460) 006_FPGA_DDRII(U746-J3 @330,520) 006_FPGA_DDRII(U746-J7 @330,400) 006_FPGA_DDRII(U746-N1 @330,550) 006_FPGA_DDRII(U746-P9 @330,510) 88E1111.sch(X50-2 @880,1020) EP4CE55_other.sch(X360-2 @1202,335) 
+
+ #5 Warning   Unconnected Net Label On Net RXD0
+    EP4CE55_88E1111.sch RXD0 
+
+ #6 Warning   Unconnected Net Label On Net RXD1
+    EP4CE55_88E1111.sch RXD1 
+
+ #7 Warning   Unconnected Net Label On Net RXD2
+    EP4CE55_88E1111.sch RXD2 
+
+ #8 Warning   Unconnected Net Label On Net RXD3
+    EP4CE55_88E1111.sch RXD3 
+
+ #9 Warning   Unconnected Net Label On Net RXD4
+    EP4CE55_88E1111.sch RXD4 
+
+ #10 Warning   Unconnected Net Label On Net RXD5
+    EP4CE55_88E1111.sch RXD5 
+
+ #11 Warning   Unconnected Net Label On Net RXD6
+    EP4CE55_88E1111.sch RXD6 
+
+ #12 Warning   Unconnected Net Label On Net RXD7
+    EP4CE55_88E1111.sch RXD7 
+
+ #13 Warning   Unconnected Net Label On Net TXD0
+    EP4CE55_88E1111.sch TXD0 
+
+ #14 Warning   Unconnected Net Label On Net TXD1
+    EP4CE55_88E1111.sch TXD1 
+
+ #15 Warning   Unconnected Net Label On Net TXD2
+    EP4CE55_88E1111.sch TXD2 
+
+ #16 Warning   Unconnected Net Label On Net TXD3
+    EP4CE55_88E1111.sch TXD3 
+
+ #17 Warning   Unconnected Net Label On Net TXD4
+    EP4CE55_88E1111.sch TXD4 
+
+ #18 Warning   Unconnected Net Label On Net TXD5
+    EP4CE55_88E1111.sch TXD5 
+
+ #19 Warning   Unconnected Net Label On Net TXD6
+    EP4CE55_88E1111.sch TXD6 
+
+ #20 Warning   Unconnected Net Label On Net TXD7
+    EP4CE55_88E1111.sch TXD7 
+
+ #21 Warning   Unconnected Net Label On Net VI1DAT2
+    003_interface.Sch VI1DAT2 
+
+ #22 Warning   Unconnected Net Label On Net VI1DAT3
+    003_interface.Sch VI1DAT3 
+
+ #23 Warning   Unconnected Net Label On Net VI1DAT4
+    003_interface.Sch VI1DAT4 
+
+ #24 Warning   Unconnected Net Label On Net VI1DAT5
+    003_interface.Sch VI1DAT5 
+
+ #25 Warning   Unconnected Net Label On Net VI1DAT6
+    003_interface.Sch VI1DAT6 
+
+ #26 Warning   Unconnected Net Label On Net VI1DAT7
+    003_interface.Sch VI1DAT7 
+
+ #27 Warning   Unconnected Net Label On Net VI1DAT8
+    003_interface.Sch VI1DAT8 
+
+ #28 Warning   Unconnected Net Label On Net VI1DAT9
+    003_interface.Sch VI1DAT9 
+
+ #29 Warning   Unconnected Net Label On Net VI2DAT2
+    003_interface.Sch VI2DAT2 
+
+ #30 Warning   Unconnected Net Label On Net VI2DAT3
+    003_interface.Sch VI2DAT3 
+
+ #31 Warning   Unconnected Net Label On Net VI2DAT4
+    003_interface.Sch VI2DAT4 
+
+ #32 Warning   Unconnected Net Label On Net VI2DAT5
+    003_interface.Sch VI2DAT5 
+
+ #33 Warning   Unconnected Net Label On Net VI2DAT6
+    003_interface.Sch VI2DAT6 
+
+ #34 Warning   Unconnected Net Label On Net VI2DAT7
+    003_interface.Sch VI2DAT7 
+
+ #35 Warning   Unconnected Net Label On Net VI2DAT8
+    003_interface.Sch VI2DAT8 
+
+ #36 Warning   Unconnected Net Label On Net VI2DAT9
+    003_interface.Sch VI2DAT9 
+
+ #37 Warning   Unconnected Net Label On Net VI3DAT2
+    003_interface.Sch VI3DAT2 
+
+ #38 Warning   Unconnected Net Label On Net VI3DAT3
+    003_interface.Sch VI3DAT3 
+
+ #39 Warning   Unconnected Net Label On Net VI3DAT4
+    003_interface.Sch VI3DAT4 
+
+ #40 Warning   Unconnected Net Label On Net VI3DAT5
+    003_interface.Sch VI3DAT5 
+
+ #41 Warning   Unconnected Net Label On Net VI3DAT6
+    003_interface.Sch VI3DAT6 
+
+ #42 Warning   Unconnected Net Label On Net VI3DAT7
+    003_interface.Sch VI3DAT7 
+
+ #43 Warning   Unconnected Net Label On Net VI3DAT8
+    003_interface.Sch VI3DAT8 
+
+ #44 Warning   Unconnected Net Label On Net VI3DAT9
+    003_interface.Sch VI3DAT9 
+
+ #45 Warning   Unconnected Net Label On Net VI4DAT2
+    003_interface.Sch VI4DAT2 
+
+ #46 Warning   Unconnected Net Label On Net VI4DAT3
+    003_interface.Sch VI4DAT3 
+
+ #47 Warning   Unconnected Net Label On Net VI4DAT4
+    003_interface.Sch VI4DAT4 
+
+ #48 Warning   Unconnected Net Label On Net VI4DAT5
+    003_interface.Sch VI4DAT5 
+
+ #49 Warning   Unconnected Net Label On Net VI4DAT6
+    003_interface.Sch VI4DAT6 
+
+ #50 Warning   Unconnected Net Label On Net VI4DAT7
+    003_interface.Sch VI4DAT7 
+
+ #51 Warning   Unconnected Net Label On Net VI4DAT8
+    003_interface.Sch VI4DAT8 
+
+ #52 Warning   Unconnected Net Label On Net VI4DAT9
+    003_interface.Sch VI4DAT9 
+
+ #53 Warning   Unconnected Net Label On Net VI4DAT[2:9]
+    003_interface.Sch VI4DAT[2:9] 
+
+ #54 Warning   Unconnected Net Label On Net VI4DAT[2:9]
+    EP4CE55_interface.sch VI4DAT[2:9] 
+
+
+End Report

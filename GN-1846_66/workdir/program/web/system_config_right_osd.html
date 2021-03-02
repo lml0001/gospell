@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link href="/style/doc.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+		body
+		{
+			background-image: url(/graphics/bg001.gif);
+		}
+	</style>
+
+	<script type="text/javascript" src="/js/common_process.js"></script>
+
+	<script type="text/javascript" src="/js/language.js"></script>
+
+	<script type="text/javascript" src="/js/device_setting.js"></script>
+    <script type="text/javascript" src="/js/device_information.js"></script>
+
+	<script type="text/javascript">
+
+		JS_LANInitiate();
+		JS_InfoInitiate();
+		JS_DevSettingInitiate();
+
+		function OnLoad()
+		{
+		    //		    $("status").src = "/water_mark.png";
+		}
+
+
+		function OnSubmit(Item) 
+		{
+		    var file;
+		    var lTmpStr;
+		    var lHolderNode;
+		    var lXMLDom = JS_XMLCreateDomFromFile(null);
+
+			if (Item.id == "form_water_mark_import") 
+			{
+			    file = document.getElementById("water_mark").value;
+			    if (file == null || file == "") 
+			    {
+			        alert(JS_LAN("confirm_file"));
+			        return (false);
+			    }
+			    return true;
+			}
+		}
+        
+    </script>
+
+</head>
+<body onload="OnLoad()">
+	<table class="chrome_center" width="850px" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tr>
+			<td height="30px" align="center" background="/graphics/boxmenu_850.gif">
+                <span style="font-weight: bold"><script type="text/javascript">JS_INLAN("title")</script></span>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#F5F9FE">
+				<div style="height: 480px; width: 820px; overflow: auto; padding: 5px 10px 0px 10px;">
+					<table class="chrome_center" border="0" cellspacing="0" cellpadding="0" width="100%">
+						<tr>
+							<td height="30px" valign="top" align="left" bgcolor="#E4EFF8" style="padding-left: 13px; color: #069; font-size: 12pt;">
+								<span><script type="text/javascript">JS_INLAN("submit_watermarking")</script></span>
+							</td>
+						</tr>
+						<tr>
+							<td height="30px" valign="top" align="left" bgcolor="#F5F9FE" style="padding-left: 25px; padding-right: 25px">
+								<table class="chrome_center" width="100%">
+									<tr>
+										<td style="text-align: left; width: 50%">
+                                            <form target="_self" method="post" enctype="multipart/form-data" action="cgi-bin/upload.cgi" id="form_water_mark_import" onsubmit="return(OnSubmit(this))">
+                                            <input type="hidden" name="type" value="water_mark" />
+                                            <input type="hidden" name="file_limit" value="36700160" />
+                                            <input type="hidden" name="redirect" value="/upload_right_cgi.html" />
+                                            <input type="hidden" name="back" value="/system_config_right_osd.html" />
+                                            <input type="file" name="file" id="water_mark"style="width: 300px; height: 20px" />
+                                            <button type="submit" style="width: 60px;" id="submit_import_soft"><script type="text/javascript">JS_INCMNLAN("import")</script></button>
+                                            </form>
+                                        </td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+						    <td height="30px" valign="top" align="left" style="padding-left: 13px; color: #069; font-size: 12pt;">
+							  <span><script type="text/javascript">JS_INLAN("water_mark")</script></span>&nbsp;&nbsp;&nbsp;&nbsp;<img id="status" src="/tmp/water_mark.png" onerror="javascript:this.src='/graphics/cc.png'" style="display: inline" />
+							</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+        <tr>
+            <td height="1px" bgcolor="#F5F9FE" align="center">
+				<div style="height:1px; width:800px;overflow:hidden; background:#666"></div>
+           </td>
+        </tr>
+        <tr>
+            <td height="30px" bgcolor="#F5F9FE">
+                 <div style="height: 30px;width:820px; overflow: auto;padding: 5px 20px 5px 2px; text-align:right">
+					<button type="button" onclick='location.reload();' style="width: 80px; height: 25px" id="refresh"><script type="text/javascript">					                                                                                                  	JS_INCMNLAN("refresh")</script></button>
+                </div>
+           </td>
+        </tr>
+		<tr>
+			<td height="13px" background="/graphics/boxbottom_850.gif">
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

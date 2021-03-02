@@ -1,0 +1,1024 @@
+Error Report For : Documents\GN-1866-B-V1.Sch    29-May-2018  10:14:51
+
+ #1 Warning   Unconnected Net Label On Net HDMI_TX0N_C
+    LT6911C_2.Sch HDMI_TX0N_C 
+
+ #2 Warning   Unconnected Power Object On Net HDMI_TX0N_C
+    LT6911C_2.Sch HDMI_TX0N_C 
+
+ #3 Warning   Unconnected Net Label On Net HDMI_TX0P_C
+    LT6911C_2.Sch HDMI_TX0P_C 
+
+ #4 Warning   Unconnected Power Object On Net HDMI_TX0P_C
+    LT6911C_2.Sch HDMI_TX0P_C 
+
+ #5 Warning   Unconnected Net Label On Net HDMI_TX1N_C
+    LT6911C_2.Sch HDMI_TX1N_C 
+
+ #6 Warning   Unconnected Power Object On Net HDMI_TX1N_C
+    LT6911C_2.Sch HDMI_TX1N_C 
+
+ #7 Warning   Unconnected Net Label On Net HDMI_TX1P_C
+    LT6911C_2.Sch HDMI_TX1P_C 
+
+ #8 Warning   Unconnected Power Object On Net HDMI_TX1P_C
+    LT6911C_2.Sch HDMI_TX1P_C 
+
+ #9 Warning   Unconnected Net Label On Net HDMI_TX2N_C
+    LT6911C_2.Sch HDMI_TX2N_C 
+
+ #10 Warning   Unconnected Power Object On Net HDMI_TX2N_C
+    LT6911C_2.Sch HDMI_TX2N_C 
+
+ #11 Warning   Unconnected Net Label On Net HDMI_TX2P_C
+    LT6911C_2.Sch HDMI_TX2P_C 
+
+ #12 Warning   Unconnected Power Object On Net HDMI_TX2P_C
+    LT6911C_2.Sch HDMI_TX2P_C 
+
+ #13 Warning   Unconnected Net Label On Net HDMI_TXCN_C
+    LT6911C_2.Sch HDMI_TXCN_C 
+
+ #14 Warning   Unconnected Power Object On Net HDMI_TXCN_C
+    LT6911C_2.Sch HDMI_TXCN_C 
+
+ #15 Warning   Unconnected Net Label On Net HDMI_TXCP_C
+    LT6911C_2.Sch HDMI_TXCP_C 
+
+ #16 Warning   Unconnected Power Object On Net HDMI_TXCP_C
+    LT6911C_2.Sch HDMI_TXCP_C 
+
+ #17 Warning   Unconnected Net Label On Net MIPI_N1_CLK+_B
+    LT6911C_2.Sch MIPI_N1_CLK+_B 
+
+ #18 Warning   Unconnected Net Label On Net MIPI_N1_CLK+_D
+    LT6911C_4.Sch MIPI_N1_CLK+_D 
+
+ #19 Warning   Unconnected Net Label On Net MIPI_N1_CLK-_B
+    LT6911C_2.Sch MIPI_N1_CLK-_B 
+
+ #20 Warning   Unconnected Net Label On Net MIPI_N1_CLK-_D
+    LT6911C_4.Sch MIPI_N1_CLK-_D 
+
+ #21 Warning   Unconnected Net Label On Net MIPI_N1_D0+_B
+    LT6911C_2.Sch MIPI_N1_D0+_B 
+
+ #22 Warning   Unconnected Net Label On Net MIPI_N1_D0+_D
+    LT6911C_4.Sch MIPI_N1_D0+_D 
+
+ #23 Warning   Unconnected Net Label On Net MIPI_N1_D0-_B
+    LT6911C_2.Sch MIPI_N1_D0-_B 
+
+ #24 Warning   Unconnected Net Label On Net MIPI_N1_D0-_D
+    LT6911C_4.Sch MIPI_N1_D0-_D 
+
+ #25 Warning   Unconnected Net Label On Net MIPI_N1_D1+_B
+    LT6911C_2.Sch MIPI_N1_D1+_B 
+
+ #26 Warning   Unconnected Net Label On Net MIPI_N1_D1+_D
+    LT6911C_4.Sch MIPI_N1_D1+_D 
+
+ #27 Warning   Unconnected Net Label On Net MIPI_N1_D1-_B
+    LT6911C_2.Sch MIPI_N1_D1-_B 
+
+ #28 Warning   Unconnected Net Label On Net MIPI_N1_D1-_D
+    LT6911C_4.Sch MIPI_N1_D1-_D 
+
+ #29 Warning   Unconnected Net Label On Net MIPI_N1_D2+_B
+    LT6911C_2.Sch MIPI_N1_D2+_B 
+
+ #30 Warning   Unconnected Net Label On Net MIPI_N1_D2+_D
+    LT6911C_4.Sch MIPI_N1_D2+_D 
+
+ #31 Warning   Unconnected Net Label On Net MIPI_N1_D2-_B
+    LT6911C_2.Sch MIPI_N1_D2-_B 
+
+ #32 Warning   Unconnected Net Label On Net MIPI_N1_D2-_D
+    LT6911C_4.Sch MIPI_N1_D2-_D 
+
+ #33 Warning   Unconnected Net Label On Net MIPI_N1_D3+_B
+    LT6911C_2.Sch MIPI_N1_D3+_B 
+
+ #34 Warning   Unconnected Net Label On Net MIPI_N1_D3+_D
+    LT6911C_4.Sch MIPI_N1_D3+_D 
+
+ #35 Warning   Unconnected Net Label On Net MIPI_N1_D3-_B
+    LT6911C_2.Sch MIPI_N1_D3-_B 
+
+ #36 Warning   Unconnected Net Label On Net MIPI_N1_D3-_D
+    LT6911C_4.Sch MIPI_N1_D3-_D 
+
+ #37 Warning   Unconnected Input Sheet Entry On Net N00001
+    GN-1866-B-V1.Sch UART1_TXD 
+
+ #38 Warning   Unconnected Input Sheet Entry On Net N00009
+    4HD1.Sch G0_I2S_DA4/SPDIF 
+
+ #39 Warning   Unconnected Input Sheet Entry On Net N00017
+    4HD1.Sch M0_D1P_VI0_CK 
+
+ #40 Warning   Unconnected Input Sheet Entry On Net N00018
+    4HD1.Sch M0_D1M_VI0_HS 
+
+ #41 Warning   Unconnected Input Sheet Entry On Net N00019
+    4HD1.Sch M0_D0P_VI0_D0 
+
+ #42 Warning   Unconnected Input Sheet Entry On Net N00020
+    4HD1.Sch M0_D0M_VI0_VS 
+
+ #43 Warning   Unconnected Input Sheet Entry On Net N00021
+    4HD1.Sch M0_D3P_VI0_D6 
+
+ #44 Warning   Unconnected Input Sheet Entry On Net N00022
+    4HD1.Sch M0_D3M_VI0_D5 
+
+ #45 Warning   Unconnected Input Sheet Entry On Net N00023
+    4HD1.Sch M0_CKP_VI0_D7 
+
+ #46 Warning   Unconnected Input Sheet Entry On Net N00024
+    4HD1.Sch M0_CKM_VI0_D8 
+
+ #47 Warning   Unconnected Input Sheet Entry On Net N00025
+    4HD1.Sch M0_D2P_VI0_D2 
+
+ #48 Warning   Unconnected Input Sheet Entry On Net N00026
+    4HD1.Sch M0_D2M_VI0_D1 
+
+ #49 Warning   Unconnected Input Sheet Entry On Net N00027
+    4HD1.Sch M1_D3M_VI0_D10 
+
+ #50 Warning   Unconnected Input Sheet Entry On Net N00028
+    4HD1.Sch M1_D3P_VI0_D9 
+
+ #51 Warning   Unconnected Input Sheet Entry On Net N00029
+    4HD1.Sch M1_D1P_VI0_D13 
+
+ #52 Warning   Unconnected Input Sheet Entry On Net N00030
+    4HD1.Sch M1_D1M_VI0_D14 
+
+ #53 Warning   Unconnected Input Sheet Entry On Net N00031
+    4HD1.Sch M1_CKM_VI0_D4 
+
+ #54 Warning   Unconnected Input Sheet Entry On Net N00032
+    4HD1.Sch M1_CKP_VI0_D3 
+
+ #55 Warning   Unconnected Input Sheet Entry On Net N00033
+    4HD1.Sch M1_D0P 
+
+ #56 Warning   Unconnected Input Sheet Entry On Net N00034
+    4HD1.Sch M1_D0M_VI0_D15 
+
+ #57 Warning   Unconnected Input Sheet Entry On Net N00035
+    4HD1.Sch M1_D2P_VI0_D12 
+
+ #58 Warning   Unconnected Input Sheet Entry On Net N00036
+    4HD1.Sch M1_D2M_VI0_D11 
+
+ #59 Warning   Unconnected Input Sheet Entry On Net N00037
+    4HD1.Sch M2_D3P_VI1_D12 
+
+ #60 Warning   Unconnected Input Sheet Entry On Net N00038
+    4HD1.Sch M2_D3M_VI1_D13 
+
+ #61 Warning   Unconnected Input Sheet Entry On Net N00039
+    4HD1.Sch M2_D1P_VI1_D10 
+
+ #62 Warning   Unconnected Input Sheet Entry On Net N00040
+    4HD1.Sch M2_D1M_VI1_D11 
+
+ #63 Warning   Unconnected Input Sheet Entry On Net N00041
+    4HD1.Sch M2_CKM_VI1_D15 
+
+ #64 Warning   Unconnected Input Sheet Entry On Net N00042
+    4HD1.Sch M2_CKP_VI1_D14 
+
+ #65 Warning   Unconnected Input Sheet Entry On Net N00043
+    4HD1.Sch M2_D0P_VI1_D9 
+
+ #66 Warning   Unconnected Input Sheet Entry On Net N00044
+    4HD1.Sch M2_D0M_VI1_D8 
+
+ #67 Warning   Unconnected Input Sheet Entry On Net N00045
+    4HD1.Sch M2_D2P_VI1_D7 
+
+ #68 Warning   Unconnected Input Sheet Entry On Net N00046
+    4HD1.Sch M2_D2M_VI1_D6 
+
+ #69 Warning   Unconnected Input Sheet Entry On Net N00190
+    4HD2.Sch G0_I2S_DA4/SPDIF_B 
+
+ #70 Warning   Unconnected Input Sheet Entry On Net N00198
+    4HD2.Sch M0_D1P_VI0_CK 
+
+ #71 Warning   Unconnected Input Sheet Entry On Net N00199
+    4HD2.Sch M0_D1M_VI0_HS 
+
+ #72 Warning   Unconnected Input Sheet Entry On Net N00200
+    4HD2.Sch M0_D0P_VI0_D0 
+
+ #73 Warning   Unconnected Input Sheet Entry On Net N00201
+    4HD2.Sch M0_D0M_VI0_VS 
+
+ #74 Warning   Unconnected Input Sheet Entry On Net N00202
+    4HD2.Sch M0_D3P_VI0_D6 
+
+ #75 Warning   Unconnected Input Sheet Entry On Net N00203
+    4HD2.Sch M0_D3M_VI0_D5 
+
+ #76 Warning   Unconnected Input Sheet Entry On Net N00204
+    4HD2.Sch M0_CKP_VI0_D7 
+
+ #77 Warning   Unconnected Input Sheet Entry On Net N00205
+    4HD2.Sch M0_CKM_VI0_D8 
+
+ #78 Warning   Unconnected Input Sheet Entry On Net N00206
+    4HD2.Sch M0_D2P_VI0_D2 
+
+ #79 Warning   Unconnected Input Sheet Entry On Net N00207
+    4HD2.Sch M0_D2M_VI0_D1 
+
+ #80 Warning   Unconnected Input Sheet Entry On Net N00208
+    4HD2.Sch M1_D3M_VI0_D10 
+
+ #81 Warning   Unconnected Input Sheet Entry On Net N00209
+    4HD2.Sch M1_D3P_VI0_D9 
+
+ #82 Warning   Unconnected Input Sheet Entry On Net N00210
+    4HD2.Sch M1_D1P_VI0_D13 
+
+ #83 Warning   Unconnected Input Sheet Entry On Net N00211
+    4HD2.Sch M1_D1M_VI0_D14 
+
+ #84 Warning   Unconnected Input Sheet Entry On Net N00212
+    4HD2.Sch M1_CKM_VI0_D4 
+
+ #85 Warning   Unconnected Input Sheet Entry On Net N00213
+    4HD2.Sch M1_CKP_VI0_D3 
+
+ #86 Warning   Unconnected Input Sheet Entry On Net N00214
+    4HD2.Sch M1_D0P 
+
+ #87 Warning   Unconnected Input Sheet Entry On Net N00215
+    4HD2.Sch M1_D0M_VI0_D15 
+
+ #88 Warning   Unconnected Input Sheet Entry On Net N00216
+    4HD2.Sch M1_D2P_VI0_D12 
+
+ #89 Warning   Unconnected Input Sheet Entry On Net N00217
+    4HD2.Sch M1_D2M_VI0_D11 
+
+ #90 Warning   Unconnected Input Sheet Entry On Net N00218
+    4HD2.Sch M2_D3P_VI1_D12 
+
+ #91 Warning   Unconnected Input Sheet Entry On Net N00219
+    4HD2.Sch M2_D3M_VI1_D13 
+
+ #92 Warning   Unconnected Input Sheet Entry On Net N00220
+    4HD2.Sch M2_D1P_VI1_D10 
+
+ #93 Warning   Unconnected Input Sheet Entry On Net N00221
+    4HD2.Sch M2_D1M_VI1_D11 
+
+ #94 Warning   Unconnected Input Sheet Entry On Net N00222
+    4HD2.Sch M2_CKM_VI1_D15 
+
+ #95 Warning   Unconnected Input Sheet Entry On Net N00223
+    4HD2.Sch M2_CKP_VI1_D14 
+
+ #96 Warning   Unconnected Input Sheet Entry On Net N00224
+    4HD2.Sch M2_D0P_VI1_D9 
+
+ #97 Warning   Unconnected Input Sheet Entry On Net N00225
+    4HD2.Sch M2_D0M_VI1_D8 
+
+ #98 Warning   Unconnected Input Sheet Entry On Net N00226
+    4HD2.Sch M2_D2P_VI1_D7 
+
+ #99 Warning   Unconnected Input Sheet Entry On Net N00227
+    4HD2.Sch M2_D2M_VI1_D6 
+
+ #100 Warning   Unconnected Input Sheet Entry On Net N00355
+    4HD3.Sch G0_I2S_DA4/SPDIF_C 
+
+ #101 Warning   Unconnected Input Sheet Entry On Net N00363
+    4HD3.Sch M0_D1P_VI0_CK 
+
+ #102 Warning   Unconnected Input Sheet Entry On Net N00364
+    4HD3.Sch M0_D1M_VI0_HS 
+
+ #103 Warning   Unconnected Input Sheet Entry On Net N00365
+    4HD3.Sch M0_D0P_VI0_D0 
+
+ #104 Warning   Unconnected Input Sheet Entry On Net N00366
+    4HD3.Sch M0_D0M_VI0_VS 
+
+ #105 Warning   Unconnected Input Sheet Entry On Net N00367
+    4HD3.Sch M0_D3P_VI0_D6 
+
+ #106 Warning   Unconnected Input Sheet Entry On Net N00368
+    4HD3.Sch M0_D3M_VI0_D5 
+
+ #107 Warning   Unconnected Input Sheet Entry On Net N00369
+    4HD3.Sch M0_CKP_VI0_D7 
+
+ #108 Warning   Unconnected Input Sheet Entry On Net N00370
+    4HD3.Sch M0_CKM_VI0_D8 
+
+ #109 Warning   Unconnected Input Sheet Entry On Net N00371
+    4HD3.Sch M0_D2P_VI0_D2 
+
+ #110 Warning   Unconnected Input Sheet Entry On Net N00372
+    4HD3.Sch M0_D2M_VI0_D1 
+
+ #111 Warning   Unconnected Input Sheet Entry On Net N00373
+    4HD3.Sch M1_D3M_VI0_D10 
+
+ #112 Warning   Unconnected Input Sheet Entry On Net N00374
+    4HD3.Sch M1_D3P_VI0_D9 
+
+ #113 Warning   Unconnected Input Sheet Entry On Net N00375
+    4HD3.Sch M1_D1P_VI0_D13 
+
+ #114 Warning   Unconnected Input Sheet Entry On Net N00376
+    4HD3.Sch M1_D1M_VI0_D14 
+
+ #115 Warning   Unconnected Input Sheet Entry On Net N00377
+    4HD3.Sch M1_CKM_VI0_D4 
+
+ #116 Warning   Unconnected Input Sheet Entry On Net N00378
+    4HD3.Sch M1_CKP_VI0_D3 
+
+ #117 Warning   Unconnected Input Sheet Entry On Net N00379
+    4HD3.Sch M1_D0P 
+
+ #118 Warning   Unconnected Input Sheet Entry On Net N00380
+    4HD3.Sch M1_D0M_VI0_D15 
+
+ #119 Warning   Unconnected Input Sheet Entry On Net N00381
+    4HD3.Sch M1_D2P_VI0_D12 
+
+ #120 Warning   Unconnected Input Sheet Entry On Net N00382
+    4HD3.Sch M1_D2M_VI0_D11 
+
+ #121 Warning   Unconnected Input Sheet Entry On Net N00383
+    4HD3.Sch M2_D3P_VI1_D12 
+
+ #122 Warning   Unconnected Input Sheet Entry On Net N00384
+    4HD3.Sch M2_D3M_VI1_D13 
+
+ #123 Warning   Unconnected Input Sheet Entry On Net N00385
+    4HD3.Sch M2_D1P_VI1_D10 
+
+ #124 Warning   Unconnected Input Sheet Entry On Net N00386
+    4HD3.Sch M2_D1M_VI1_D11 
+
+ #125 Warning   Unconnected Input Sheet Entry On Net N00387
+    4HD3.Sch M2_CKM_VI1_D15 
+
+ #126 Warning   Unconnected Input Sheet Entry On Net N00388
+    4HD3.Sch M2_CKP_VI1_D14 
+
+ #127 Warning   Unconnected Input Sheet Entry On Net N00389
+    4HD3.Sch M2_D0P_VI1_D9 
+
+ #128 Warning   Unconnected Input Sheet Entry On Net N00390
+    4HD3.Sch M2_D0M_VI1_D8 
+
+ #129 Warning   Unconnected Input Sheet Entry On Net N00391
+    4HD3.Sch M2_D2P_VI1_D7 
+
+ #130 Warning   Unconnected Input Sheet Entry On Net N00392
+    4HD3.Sch M2_D2M_VI1_D6 
+
+ #131 Warning   Unconnected Input Sheet Entry On Net N00532
+    4HD4.Sch G0_I2S_DA4/SPDIF_D 
+
+ #132 Warning   Unconnected Input Sheet Entry On Net N00540
+    4HD4.Sch M0_D1P_VI0_CK 
+
+ #133 Warning   Unconnected Input Sheet Entry On Net N00541
+    4HD4.Sch M0_D1M_VI0_HS 
+
+ #134 Warning   Unconnected Input Sheet Entry On Net N00542
+    4HD4.Sch M0_D0P_VI0_D0 
+
+ #135 Warning   Unconnected Input Sheet Entry On Net N00543
+    4HD4.Sch M0_D0M_VI0_VS 
+
+ #136 Warning   Unconnected Input Sheet Entry On Net N00544
+    4HD4.Sch M0_D3P_VI0_D6 
+
+ #137 Warning   Unconnected Input Sheet Entry On Net N00545
+    4HD4.Sch M0_D3M_VI0_D5 
+
+ #138 Warning   Unconnected Input Sheet Entry On Net N00546
+    4HD4.Sch M0_CKP_VI0_D7 
+
+ #139 Warning   Unconnected Input Sheet Entry On Net N00547
+    4HD4.Sch M0_CKM_VI0_D8 
+
+ #140 Warning   Unconnected Input Sheet Entry On Net N00548
+    4HD4.Sch M0_D2P_VI0_D2 
+
+ #141 Warning   Unconnected Input Sheet Entry On Net N00549
+    4HD4.Sch M0_D2M_VI0_D1 
+
+ #142 Warning   Unconnected Input Sheet Entry On Net N00550
+    4HD4.Sch M1_D3M_VI0_D10 
+
+ #143 Warning   Unconnected Input Sheet Entry On Net N00551
+    4HD4.Sch M1_D3P_VI0_D9 
+
+ #144 Warning   Unconnected Input Sheet Entry On Net N00552
+    4HD4.Sch M1_D1P_VI0_D13 
+
+ #145 Warning   Unconnected Input Sheet Entry On Net N00553
+    4HD4.Sch M1_D1M_VI0_D14 
+
+ #146 Warning   Unconnected Input Sheet Entry On Net N00554
+    4HD4.Sch M1_CKM_VI0_D4 
+
+ #147 Warning   Unconnected Input Sheet Entry On Net N00555
+    4HD4.Sch M1_CKP_VI0_D3 
+
+ #148 Warning   Unconnected Input Sheet Entry On Net N00556
+    4HD4.Sch M1_D0P 
+
+ #149 Warning   Unconnected Input Sheet Entry On Net N00557
+    4HD4.Sch M1_D0M_VI0_D15 
+
+ #150 Warning   Unconnected Input Sheet Entry On Net N00558
+    4HD4.Sch M1_D2P_VI0_D12 
+
+ #151 Warning   Unconnected Input Sheet Entry On Net N00559
+    4HD4.Sch M1_D2M_VI0_D11 
+
+ #152 Warning   Unconnected Input Sheet Entry On Net N00560
+    4HD4.Sch M2_D3P_VI1_D12 
+
+ #153 Warning   Unconnected Input Sheet Entry On Net N00561
+    4HD4.Sch M2_D3M_VI1_D13 
+
+ #154 Warning   Unconnected Input Sheet Entry On Net N00562
+    4HD4.Sch M2_D1P_VI1_D10 
+
+ #155 Warning   Unconnected Input Sheet Entry On Net N00563
+    4HD4.Sch M2_D1M_VI1_D11 
+
+ #156 Warning   Unconnected Input Sheet Entry On Net N00564
+    4HD4.Sch M2_CKM_VI1_D15 
+
+ #157 Warning   Unconnected Input Sheet Entry On Net N00565
+    4HD4.Sch M2_CKP_VI1_D14 
+
+ #158 Warning   Unconnected Input Sheet Entry On Net N00566
+    4HD4.Sch M2_D0P_VI1_D9 
+
+ #159 Warning   Unconnected Input Sheet Entry On Net N00567
+    4HD4.Sch M2_D0M_VI1_D8 
+
+ #160 Warning   Unconnected Input Sheet Entry On Net N00568
+    4HD4.Sch M2_D2P_VI1_D7 
+
+ #161 Warning   Unconnected Input Sheet Entry On Net N00569
+    4HD4.Sch M2_D2M_VI1_D6 
+
+ #162 Warning   Unconnected Input Sheet Entry On Net N00680
+    3519A_ALL.Sch PWM_SVB1_CORE 
+
+ #163 Warning   Unconnected Input Sheet Entry On Net N00681
+    3519A_ALL.Sch PWM_SVB0_CPU 
+
+ #164 Warning   Unconnected Input Sheet Entry On Net N00682
+    3519A_ALL.Sch VI_SLV_CLK 
+
+ #165 Warning   Unconnected Input Sheet Entry On Net N00685
+    3519A_ALL.Sch VO_SLV_CLK 
+
+ #166 Warning   Unconnected Input Sheet Entry On Net N00688
+    3519A_ALL.Sch F_DATA0 
+
+ #167 Warning   Unconnected Input Sheet Entry On Net N00689
+    3519A_ALL.Sch F_DCLK 
+
+ #168 Warning   Unconnected Input Sheet Entry On Net N00690
+    3519A_ALL.Sch F_NCONFIG 
+
+ #169 Warning   Unconnected Input Sheet Entry On Net N00694
+    3519A_ALL.Sch G2_A2_I2C_CLK 
+
+ #170 Warning   Unconnected Input Sheet Entry On Net N00698
+    3519A_ALL.Sch G3_A1_I2C_CLK 
+
+ #171 Warning   Unconnected Input Sheet Entry On Net N00699
+    3519A_ALL.Sch G3_A2_I2C_CLK 
+
+ #172 Warning   Unconnected Input Sheet Entry On Net N00700
+    3519A_ALL.Sch G1_A2_I2C_CLK 
+
+ #173 Warning   Unconnected Input Sheet Entry On Net N00702
+    3519A_ALL.Sch G1_A1_I2C_CLK 
+
+ #174 Warning   Unconnected Input Sheet Entry On Net N00703
+    3519A_ALL.Sch UART1_TXD 
+
+ #175 Warning   Unconnected Input Sheet Entry On Net N00704
+    3519A_ALL.Sch UART1_TXD 
+
+ #176 Warning   Unconnected Input Sheet Entry On Net N00706
+    3519A_ALL.Sch F_SPI_DO 
+
+ #177 Warning   Unconnected Input Sheet Entry On Net N00707
+    3519A_ALL.Sch F_SPI_CLK 
+
+ #178 Warning   Unconnected Input Sheet Entry On Net N00708
+    3519A_ALL.Sch F_SPI_CS 
+
+ #179 Warning   Unconnected Input Sheet Entry On Net N00735
+    3519A_ALL.Sch F_SYSTEM 
+
+ #180 Warning   Unconnected Input Sheet Entry On Net N00736
+    3519A_ALL.Sch F_SPI_DI 
+
+ #181 Warning   Unconnected Input Sheet Entry On Net N00737
+    3519A_ALL.Sch G0_I2S_BCLK 
+
+ #182 Warning   Unconnected Input Sheet Entry On Net N00738
+    3519A_ALL.Sch G0_I2S_LRCLK 
+
+ #183 Warning   Unconnected Input Sheet Entry On Net N00739
+    3519A_ALL.Sch G0_I2S_DA1 
+
+ #184 Warning   Unconnected Input Sheet Entry On Net N00740
+    3519A_ALL.Sch G0_I2S_DA2 
+
+ #185 Warning   Unconnected Input Sheet Entry On Net N00741
+    3519A_ALL.Sch G0_I2S_DA3 
+
+ #186 Warning   Unconnected Input Sheet Entry On Net N00742
+    3519A_ALL.Sch G0_I2S_DA4/SPDIF 
+
+ #187 Warning   Unconnected Input Sheet Entry On Net N00743
+    3519A_ALL.Sch G1_I2S_BCLK 
+
+ #188 Warning   Unconnected Input Sheet Entry On Net N00744
+    3519A_ALL.Sch G1_I2S_LRCLK 
+
+ #189 Warning   Unconnected Input Sheet Entry On Net N00745
+    3519A_ALL.Sch G1_I2S_DA1 
+
+ #190 Warning   Unconnected Input Sheet Entry On Net N00746
+    3519A_ALL.Sch G1_I2S_DA2 
+
+ #191 Warning   Unconnected Input Sheet Entry On Net N00747
+    3519A_ALL.Sch G1_I2S_DA3 
+
+ #192 Warning   Unconnected Input Sheet Entry On Net N00748
+    3519A_ALL.Sch G1_I2S_DA4/SPDIF 
+
+ #193 Warning   Unconnected Input Sheet Entry On Net N00749
+    3519A_ALL.Sch G2_I2S_BCLK 
+
+ #194 Warning   Unconnected Input Sheet Entry On Net N00750
+    3519A_ALL.Sch G2_I2S_LRCLK 
+
+ #195 Warning   Unconnected Input Sheet Entry On Net N00751
+    3519A_ALL.Sch G2_I2S_DA1 
+
+ #196 Warning   Unconnected Input Sheet Entry On Net N00752
+    3519A_ALL.Sch G2_I2S_DA2 
+
+ #197 Warning   Unconnected Input Sheet Entry On Net N00753
+    3519A_ALL.Sch G2_I2S_DA3 
+
+ #198 Warning   Unconnected Input Sheet Entry On Net N00754
+    3519A_ALL.Sch G2_I2S_DA4/SPDIF 
+
+ #199 Warning   Unconnected Input Sheet Entry On Net N00755
+    3519A_ALL.Sch G3_I2S_BCLK 
+
+ #200 Warning   Unconnected Input Sheet Entry On Net N00756
+    3519A_ALL.Sch G3_I2S_LRCLK 
+
+ #201 Warning   Unconnected Input Sheet Entry On Net N00757
+    3519A_ALL.Sch G3_I2S_DA1 
+
+ #202 Warning   Unconnected Input Sheet Entry On Net N00758
+    3519A_ALL.Sch G3_I2S_DA2 
+
+ #203 Warning   Unconnected Input Sheet Entry On Net N00759
+    3519A_ALL.Sch G3_I2S_DA3 
+
+ #204 Warning   Unconnected Input Sheet Entry On Net N00760
+    3519A_ALL.Sch G3_I2S_DA4/SPDIF 
+
+ #205 Warning   Unconnected Input Sheet Entry On Net N00761
+    3519A_ALL.Sch F_SYSTEM 
+
+ #206 Warning   Unconnected Input Sheet Entry On Net N00762
+    3519A_ALL.Sch G0_A1_656_CLK 
+
+ #207 Warning   Unconnected Input Sheet Entry On Net N00763
+    3519A_ALL.Sch G0_A2_656_CLK 
+
+ #208 Warning   Unconnected Input Sheet Entry On Net N00764
+    3519A_ALL.Sch G0_I2S_BCLK 
+
+ #209 Warning   Unconnected Input Sheet Entry On Net N00765
+    3519A_ALL.Sch G0_I2S_LRCLK 
+
+ #210 Warning   Unconnected Input Sheet Entry On Net N00766
+    3519A_ALL.Sch G0_I2S_DA1 
+
+ #211 Warning   Unconnected Input Sheet Entry On Net N00767
+    3519A_ALL.Sch G0_I2S_DA2 
+
+ #212 Warning   Unconnected Input Sheet Entry On Net N00768
+    3519A_ALL.Sch G0_I2S_DA3 
+
+ #213 Warning   Unconnected Input Sheet Entry On Net N00769
+    3519A_ALL.Sch G0_I2S_DA4/SPDIF 
+
+ #214 Warning   Unconnected Input Sheet Entry On Net N00804
+    3519A_ALL.Sch G1_A1_656_CLK 
+
+ #215 Warning   Unconnected Input Sheet Entry On Net N00805
+    3519A_ALL.Sch G1_A2_656_CLK 
+
+ #216 Warning   Unconnected Input Sheet Entry On Net N00806
+    3519A_ALL.Sch G1_I2S_BCLK 
+
+ #217 Warning   Unconnected Input Sheet Entry On Net N00807
+    3519A_ALL.Sch G1_I2S_LRCLK 
+
+ #218 Warning   Unconnected Input Sheet Entry On Net N00808
+    3519A_ALL.Sch G1_I2S_DA1 
+
+ #219 Warning   Unconnected Input Sheet Entry On Net N00809
+    3519A_ALL.Sch G1_I2S_DA2 
+
+ #220 Warning   Unconnected Input Sheet Entry On Net N00810
+    3519A_ALL.Sch G1_I2S_DA3 
+
+ #221 Warning   Unconnected Input Sheet Entry On Net N00811
+    3519A_ALL.Sch G1_I2S_DA4/SPDIF 
+
+ #222 Warning   Unconnected Input Sheet Entry On Net N00814
+    3519A_ALL.Sch G2_A1_656_CLK 
+
+ #223 Warning   Unconnected Input Sheet Entry On Net N00815
+    3519A_ALL.Sch G2_A2_656_CLK 
+
+ #224 Warning   Unconnected Input Sheet Entry On Net N00816
+    3519A_ALL.Sch G2_I2S_BCLK 
+
+ #225 Warning   Unconnected Input Sheet Entry On Net N00817
+    3519A_ALL.Sch G2_I2S_LRCLK 
+
+ #226 Warning   Unconnected Input Sheet Entry On Net N00818
+    3519A_ALL.Sch G2_I2S_DA1 
+
+ #227 Warning   Unconnected Input Sheet Entry On Net N00819
+    3519A_ALL.Sch G2_I2S_DA2 
+
+ #228 Warning   Unconnected Input Sheet Entry On Net N00820
+    3519A_ALL.Sch G2_I2S_DA3 
+
+ #229 Warning   Unconnected Input Sheet Entry On Net N00821
+    3519A_ALL.Sch G2_I2S_DA4/SPDIF 
+
+ #230 Warning   Unconnected Input Sheet Entry On Net N00824
+    3519A_ALL.Sch G3_A1_656_CLK 
+
+ #231 Warning   Unconnected Input Sheet Entry On Net N00825
+    3519A_ALL.Sch G3_A2_656_CLK 
+
+ #232 Warning   Unconnected Input Sheet Entry On Net N00826
+    3519A_ALL.Sch G3_I2S_BCLK 
+
+ #233 Warning   Unconnected Input Sheet Entry On Net N00827
+    3519A_ALL.Sch G3_I2S_LRCLK 
+
+ #234 Warning   Unconnected Input Sheet Entry On Net N00828
+    3519A_ALL.Sch G3_I2S_DA1 
+
+ #235 Warning   Unconnected Input Sheet Entry On Net N00829
+    3519A_ALL.Sch G3_I2S_DA2 
+
+ #236 Warning   Unconnected Input Sheet Entry On Net N00830
+    3519A_ALL.Sch G3_I2S_DA3 
+
+ #237 Warning   Unconnected Input Sheet Entry On Net N00831
+    3519A_ALL.Sch G3_I2S_DA4/SPDIF 
+
+ #238 Warning   Unconnected Input Sheet Entry On Net N00834
+    3519A_ALL.Sch VI_SLV_CLK 
+
+ #239 Warning   Unconnected Input Sheet Entry On Net N00851
+    3519A_ALL.Sch VI_SLV_D0 
+
+ #240 Warning   Unconnected Input Sheet Entry On Net N00852
+    3519A_ALL.Sch VI_SLV_D1 
+
+ #241 Warning   Unconnected Input Sheet Entry On Net N00853
+    3519A_ALL.Sch VI_SLV_D2 
+
+ #242 Warning   Unconnected Input Sheet Entry On Net N00854
+    3519A_ALL.Sch VI_SLV_D3 
+
+ #243 Warning   Unconnected Input Sheet Entry On Net N00855
+    3519A_ALL.Sch VI_SLV_D4 
+
+ #244 Warning   Unconnected Input Sheet Entry On Net N00856
+    3519A_ALL.Sch VI_SLV_D5 
+
+ #245 Warning   Unconnected Input Sheet Entry On Net N00857
+    3519A_ALL.Sch VI_SLV_D6 
+
+ #246 Warning   Unconnected Input Sheet Entry On Net N00858
+    3519A_ALL.Sch VI_SLV_D7 
+
+ #247 Warning   Unconnected Input Sheet Entry On Net N00859
+    3519A_ALL.Sch VI_SLV_D8 
+
+ #248 Warning   Unconnected Input Sheet Entry On Net N00860
+    3519A_ALL.Sch VI_SLV_D9 
+
+ #249 Warning   Unconnected Input Sheet Entry On Net N00861
+    3519A_ALL.Sch VI_SLV_D10 
+
+ #250 Warning   Unconnected Input Sheet Entry On Net N00862
+    3519A_ALL.Sch VI_SLV_D11 
+
+ #251 Warning   Unconnected Input Sheet Entry On Net N00863
+    3519A_ALL.Sch VI_SLV_D12 
+
+ #252 Warning   Unconnected Input Sheet Entry On Net N00864
+    3519A_ALL.Sch VI_SLV_D13 
+
+ #253 Warning   Unconnected Input Sheet Entry On Net N00865
+    3519A_ALL.Sch VI_SLV_D14 
+
+ #254 Warning   Unconnected Input Sheet Entry On Net N00866
+    3519A_ALL.Sch VI_SLV_D15 
+
+ #255 Warning   Unconnected Input Sheet Entry On Net N00867
+    3519A_ALL.Sch VO_SLV_D0 
+
+ #256 Warning   Unconnected Input Sheet Entry On Net N00868
+    3519A_ALL.Sch VO_SLV_D1 
+
+ #257 Warning   Unconnected Input Sheet Entry On Net N00869
+    3519A_ALL.Sch VO_SLV_D2 
+
+ #258 Warning   Unconnected Input Sheet Entry On Net N00870
+    3519A_ALL.Sch VO_SLV_D3 
+
+ #259 Warning   Unconnected Input Sheet Entry On Net N00871
+    3519A_ALL.Sch VO_SLV_D4 
+
+ #260 Warning   Unconnected Input Sheet Entry On Net N00872
+    3519A_ALL.Sch VO_SLV_D5 
+
+ #261 Warning   Unconnected Input Sheet Entry On Net N00873
+    3519A_ALL.Sch VO_SLV_D6 
+
+ #262 Warning   Unconnected Input Sheet Entry On Net N00874
+    3519A_ALL.Sch VO_SLV_D7 
+
+ #263 Warning   Unconnected Input Sheet Entry On Net N00875
+    3519A_ALL.Sch VO_SLV_D8 
+
+ #264 Warning   Unconnected Input Sheet Entry On Net N00876
+    3519A_ALL.Sch VO_SLV_D9 
+
+ #265 Warning   Unconnected Input Sheet Entry On Net N00877
+    3519A_ALL.Sch VO_SLV_D10 
+
+ #266 Warning   Unconnected Input Sheet Entry On Net N00878
+    3519A_ALL.Sch VO_SLV_D11 
+
+ #267 Warning   Unconnected Input Sheet Entry On Net N00879
+    3519A_ALL.Sch VO_SLV_D12 
+
+ #268 Warning   Unconnected Input Sheet Entry On Net N00880
+    3519A_ALL.Sch VO_SLV_D13 
+
+ #269 Warning   Unconnected Input Sheet Entry On Net N00881
+    3519A_ALL.Sch VO_SLV_D14 
+
+ #270 Warning   Unconnected Input Sheet Entry On Net N00882
+    3519A_ALL.Sch VO_SLV_D15 
+
+ #271 Warning   Unconnected Input Sheet Entry On Net N01011
+    3519A_ALL.Sch VI_SLV_D0 
+
+ #272 Warning   Unconnected Input Sheet Entry On Net N01012
+    3519A_ALL.Sch VI_SLV_D1 
+
+ #273 Warning   Unconnected Input Sheet Entry On Net N01013
+    3519A_ALL.Sch VI_SLV_D2 
+
+ #274 Warning   Unconnected Input Sheet Entry On Net N01014
+    3519A_ALL.Sch VI_SLV_D3 
+
+ #275 Warning   Unconnected Input Sheet Entry On Net N01015
+    3519A_ALL.Sch VI_SLV_D4 
+
+ #276 Warning   Unconnected Input Sheet Entry On Net N01016
+    3519A_ALL.Sch VI_SLV_D5 
+
+ #277 Warning   Unconnected Input Sheet Entry On Net N01017
+    3519A_ALL.Sch VI_SLV_D6 
+
+ #278 Warning   Unconnected Input Sheet Entry On Net N01018
+    3519A_ALL.Sch VI_SLV_D7 
+
+ #279 Warning   Unconnected Input Sheet Entry On Net N01019
+    3519A_ALL.Sch VI_SLV_D8 
+
+ #280 Warning   Unconnected Input Sheet Entry On Net N01020
+    3519A_ALL.Sch VI_SLV_D9 
+
+ #281 Warning   Unconnected Input Sheet Entry On Net N01021
+    3519A_ALL.Sch VI_SLV_D10 
+
+ #282 Warning   Unconnected Input Sheet Entry On Net N01022
+    3519A_ALL.Sch VI_SLV_D11 
+
+ #283 Warning   Unconnected Input Sheet Entry On Net N01023
+    3519A_ALL.Sch VI_SLV_D12 
+
+ #284 Warning   Unconnected Input Sheet Entry On Net N01024
+    3519A_ALL.Sch VI_SLV_D13 
+
+ #285 Warning   Unconnected Input Sheet Entry On Net N01025
+    3519A_ALL.Sch VI_SLV_D14 
+
+ #286 Warning   Unconnected Input Sheet Entry On Net N01026
+    3519A_ALL.Sch VI_SLV_D15 
+
+ #287 Warning   Unconnected Input Sheet Entry On Net N01168
+    interface   DDR3SD.Sch FC_I2S_LRCLK 
+
+ #288 Warning   Unconnected Input Sheet Entry On Net N01169
+    interface   DDR3SD.Sch FC_I2S_BCLK 
+
+ #289 Warning   Unconnected Input Sheet Entry On Net N01170
+    interface   DDR3SD.Sch FC_I2S_DA0 
+
+ #290 Warning   Unconnected Input Sheet Entry On Net N01171
+    interface   DDR3SD.Sch FB_I2S_DA0 
+
+ #291 Warning   Unconnected Input Sheet Entry On Net N01172
+    interface   DDR3SD.Sch G3_A1_656_CLK 
+
+ #292 Warning   Unconnected Input Sheet Entry On Net N01173
+    interface   DDR3SD.Sch G2_A1_656_CLK 
+
+ #293 Warning   Unconnected Input Sheet Entry On Net N01174
+    interface   DDR3SD.Sch FA_I2S_DA0 
+
+ #294 Warning   Unconnected Input Sheet Entry On Net N01175
+    interface   DDR3SD.Sch G1_A1_656_CLK 
+
+ #295 Warning   Unconnected Input Sheet Entry On Net N01176
+    interface   DDR3SD.Sch G0_A1_656_CLK 
+
+ #296 Warning   Unconnected Input Sheet Entry On Net N01177
+    interface   DDR3SD.Sch F_SPI_DI 
+
+ #297 Warning   Unconnected Input Sheet Entry On Net N01178
+    interface   DDR3SD.Sch MDCK 
+
+ #298 Warning   Unconnected Input Sheet Entry On Net N01180
+    interface   DDR3SD.Sch EPHY_RSTN 
+
+ #299 Warning   Unconnected Input Sheet Entry On Net N01181
+    interface   DDR3SD.Sch RGMII_RXD0 
+
+ #300 Warning   Unconnected Input Sheet Entry On Net N01182
+    interface   DDR3SD.Sch RGMII_RXD1 
+
+ #301 Warning   Unconnected Input Sheet Entry On Net N01183
+    interface   DDR3SD.Sch RGMII_RXD2 
+
+ #302 Warning   Unconnected Input Sheet Entry On Net N01184
+    interface   DDR3SD.Sch RGMII_RXD3 
+
+ #303 Warning   Unconnected Input Sheet Entry On Net N01185
+    interface   DDR3SD.Sch RGMII_RXCK 
+
+ #304 Warning   Unconnected Input Sheet Entry On Net N01186
+    interface   DDR3SD.Sch RGMII_RXDV 
+
+ #305 Warning   Unconnected Input Sheet Entry On Net N01187
+    interface   DDR3SD.Sch FB_I2S_LRCLK 
+
+ #306 Warning   Unconnected Input Sheet Entry On Net N01188
+    interface   DDR3SD.Sch FB_I2S_BCLK 
+
+ #307 Warning   Unconnected Input Sheet Entry On Net N01189
+    interface   DDR3SD.Sch G3_A2_656_CLK 
+
+ #308 Warning   Unconnected Input Sheet Entry On Net N01190
+    interface   DDR3SD.Sch G2_A2_656_CLK 
+
+ #309 Warning   Unconnected Input Sheet Entry On Net N01191
+    interface   DDR3SD.Sch FA_I2S_LRCLK 
+
+ #310 Warning   Unconnected Input Sheet Entry On Net N01192
+    interface   DDR3SD.Sch FA_I2S_BCLK 
+
+ #311 Warning   Unconnected Input Sheet Entry On Net N01193
+    interface   DDR3SD.Sch G1_A2_656_CLK 
+
+ #312 Warning   Unconnected Input Sheet Entry On Net N01194
+    interface   DDR3SD.Sch G0_A2_656_CLK 
+
+ #313 Warning   Unconnected Input Sheet Entry On Net N01196
+    interface   DDR3SD.Sch UART1_RXD 
+
+ #314 Warning   Unconnected Input Sheet Entry On Net N01229
+    interface   DDR3SD.Sch FC_I2S_LRCLK 
+
+ #315 Warning   Unconnected Input Sheet Entry On Net N01230
+    interface   DDR3SD.Sch FC_I2S_BCLK 
+
+ #316 Warning   Unconnected Input Sheet Entry On Net N01231
+    interface   DDR3SD.Sch FC_I2S_DA0 
+
+ #317 Warning   Unconnected Input Sheet Entry On Net N01237
+    interface   DDR3SD.Sch FB_I2S_DA0 
+
+ #318 Warning   Unconnected Input Sheet Entry On Net N01238
+    interface   DDR3SD.Sch G3_A1_656_CLK 
+
+ #319 Warning   Unconnected Input Sheet Entry On Net N01239
+    interface   DDR3SD.Sch G2_A1_656_CLK 
+
+ #320 Warning   Unconnected Input Sheet Entry On Net N01240
+    interface   DDR3SD.Sch FA_I2S_DA0 
+
+ #321 Warning   Unconnected Input Sheet Entry On Net N01241
+    interface   DDR3SD.Sch G1_A1_656_CLK 
+
+ #322 Warning   Unconnected Input Sheet Entry On Net N01242
+    interface   DDR3SD.Sch G0_A1_656_CLK 
+
+ #323 Warning   Unconnected Input Sheet Entry On Net N01243
+    interface   DDR3SD.Sch F_SPI_DI 
+
+ #324 Warning   Unconnected Input Sheet Entry On Net N01244
+    interface   DDR3SD.Sch MDCK 
+
+ #325 Warning   Unconnected Input Sheet Entry On Net N01246
+    interface   DDR3SD.Sch EPHY_RSTN 
+
+ #326 Warning   Unconnected Input Sheet Entry On Net N01247
+    interface   DDR3SD.Sch RGMII_RXD0 
+
+ #327 Warning   Unconnected Input Sheet Entry On Net N01248
+    interface   DDR3SD.Sch RGMII_RXD1 
+
+ #328 Warning   Unconnected Input Sheet Entry On Net N01249
+    interface   DDR3SD.Sch RGMII_RXD2 
+
+ #329 Warning   Unconnected Input Sheet Entry On Net N01250
+    interface   DDR3SD.Sch RGMII_RXD3 
+
+ #330 Warning   Unconnected Input Sheet Entry On Net N01251
+    interface   DDR3SD.Sch RGMII_RXCK 
+
+ #331 Warning   Unconnected Input Sheet Entry On Net N01252
+    interface   DDR3SD.Sch RGMII_RXDV 
+
+ #332 Warning   Unconnected Input Sheet Entry On Net N01253
+    interface   DDR3SD.Sch UART1_RXD 
+
+ #333 Warning   Unconnected Input Sheet Entry On Net N01259
+    interface   DDR3SD.Sch FB_I2S_LRCLK 
+
+ #334 Warning   Unconnected Input Sheet Entry On Net N01260
+    interface   DDR3SD.Sch FB_I2S_BCLK 
+
+ #335 Warning   Unconnected Input Sheet Entry On Net N01261
+    interface   DDR3SD.Sch G3_A2_656_CLK 
+
+ #336 Warning   Unconnected Input Sheet Entry On Net N01262
+    interface   DDR3SD.Sch G2_A2_656_CLK 
+
+ #337 Warning   Unconnected Input Sheet Entry On Net N01263
+    interface   DDR3SD.Sch FA_I2S_LRCLK 
+
+ #338 Warning   Unconnected Input Sheet Entry On Net N01264
+    interface   DDR3SD.Sch FA_I2S_BCLK 
+
+ #339 Warning   Unconnected Input Sheet Entry On Net N01265
+    interface   DDR3SD.Sch G1_A2_656_CLK 
+
+ #340 Warning   Unconnected Input Sheet Entry On Net N01266
+    interface   DDR3SD.Sch G0_A2_656_CLK 
+
+
+End Report

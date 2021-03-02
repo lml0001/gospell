@@ -1,0 +1,13 @@
+[Bom Output 1|CAMBillOfMaterials]
+GenerateSpreadSheetFormat=0
+GenerateTextFormat=1
+GenerateCSVFormat=0
+SortBy=Comment
+Grouped=1
+IncludeDesignator=0
+IncludeFootprint=1
+IncludeComment=1
+Enabled=1
+[Master]
+Version=CAM output configuration file Version 1.0
+BoardName=4KP60-LT6911UX-V1.pcb

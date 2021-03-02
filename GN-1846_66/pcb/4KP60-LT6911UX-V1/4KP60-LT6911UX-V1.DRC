@@ -1,0 +1,23 @@
+Protel Design System Design Rule Check
+PCB File : Documents\4KP60-LT6911UX-V1.pcb
+Date     : 31-Jul-2018
+Time     : 14:06:09
+
+Processing Rule : Width Constraint (Min=0.1143mm) (Max=25.4mm) (Prefered=1mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1143mm) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=25.4mm) (On the board )
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:04

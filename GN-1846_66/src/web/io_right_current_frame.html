@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="/style/doc.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            background-image: url(/graphics/bg001.gif);
+        }
+    </style>
+
+    <script type="text/javascript" src="/components/my_tree_control/my_tree_control.js"></script>
+    <script type="text/javascript" src="/js/language.js"></script>
+    <script type="text/javascript" src="/js/common_process.js"></script>
+    <script type="text/javascript" src="/js/system_parameter.js"></script>
+    <script type="text/javascript" src="/js/device_information.js"></script>
+    <script type="text/javascript" src="/js/device_setting.js"></script>
+    <script type="text/javascript" src="/components/my_list_control/my_list_control.js"></script>
+
+
+	<script type="text/javascript">
+        var s_SubList;
+        var lSubArray;
+        var s_UpdateTimeout;
+        var Ipv4addr;
+        JS_LANInitiate(); //初始化语言脚本组件
+        JS_DevSettingInitiate();
+        JS_InfoInitiate();
+
+
+        function OnRequestInStatusData()
+        {
+            var lXMLDom, lBodyNode;
+            s_UpdateTimeout--;
+            if (s_UpdateTimeout < 0)
+            {
+                lXMLDom = JS_XMLCreateDomFromFile(null);
+                lBodyNode = JS_XMLParamSetHead(lXMLDom, "monitor", "input_stat", "");
+                JS_HttpGet("/goform/xmlcgiget", escape(JS_XMLSerialize(lXMLDom)), OnParseInStatXML, false);
+            }
+            else
+            {
+                setTimeout("OnRequestInStatusData()", 1000);
+            }
+        }
+
+        function OnParseInStatXML(XMLDom)
+        {
+            var lCurrentFrameState;
+            s_UpdateTimeout = 2;
+            if (JS_ISValidObject(XMLDom))
+            {
+                lSubArray = XMLDom.getElementsByTagName("in_stat");
+                var chnsel;
+                chnsel = document.getElementById("subchannel_select");
+                if(chnsel.length == 0)
+                {
+                    var i;
+                    for(i = 0;i < lSubArray.length; i++)
+                    {
+                        chnsel.options.add(new Option(i+1,i+1));
+                    }
+                }
+                lCurrentFrameState = JS_XMLGetTagValue(XMLDom, "current_frame_state");
+                var url;
+                    if(lCurrentFrameState == 1)
+                    {
+                        url = "http://" + Ipv4addr +"/snap_normal.jpg?";
+                        document.getElementById('currentframe').src = url + Math.random();
+                    }
+                    else if(lCurrentFrameState == 0)
+                    {
+                        url = "http://" + Ipv4addr +"/snap_unlocked.jpg?";
+                        document.getElementById('currentframe').src = url + Math.random();
+                    }
+
+            }
+            setTimeout("OnRequestInStatusData()", 1000);
+        }
+
+
+        function OnLoad()
+        {
+            var lItemInfo;
+            JS_ParamInitate(); //初始化系统参数处理脚本组件
+            JS_DevSettingInitiate();
+            lItemInfo = JS_DevGetManagePortSetting();
+            Ipv4addr = lItemInfo.m_IPv4Addr;
+            s_UpdateTimeout = 0;
+            setTimeout("OnRequestInStatusData()", 500);
+        }
+
+
+        function GetCurrentFrame(Item)
+        {
+            var lHolderNode;
+            var lSubChnIndex,lSubChnValue;
+            var lXMLDom = JS_XMLCreateDomFromFile(null);
+            if (Item.id == "getframe")
+            {
+                    var chnsel;
+                    chnsel = document.getElementById("subchannel_select");
+                    lSubChnIndex = chnsel.selectedIndex;
+                    lSubChnValue = chnsel.options[lSubChnIndex].value;
+                    lHolderNode = JS_XMLParamSetHead(lXMLDom, "monitor", "input_stat", "");
+                    JS_XMLAddTextChild(lXMLDom, lHolderNode, "current_frame_channel", lSubChnValue);
+                    JS_HttpGet("/goform/xmlcgiget", escape(JS_XMLSerialize(lXMLDom)), OnParseInStatXML, false);
+            }
+
+        }
+
+    </script>
+</head>
+<body onload="OnLoad()">
+<table class="chrome_center" width="850px" border="0" align="center" cellpadding="0" cellspacing="0" >
+    <tr>
+        <td height="30px" align="center" background="/graphics/boxmenu_850.gif">
+            <table class="chrome_center" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="150px" align="right"></td>
+        <td></td>
+        <td width="150px" align="right"></td>
+    </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td height="25px" valign="top" align="left" bgcolor="#F5F9FE" style="padding-left: 30px; padding-top: 5px;">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" align="center" bgcolor="#F5F9FE">
+        <div id="list_target" style="height: 450px;width:820px; overflow: auto; padding:5px 10px 0px 10px;">
+            <img onload='this.width=675; this.height=440;' id = "currentframe">
+        </div>
+        </td>
+    </tr>
+<tr>
+    <td height="1px" bgcolor="#F5F9FE" align="center">
+        <div style="height:1px; width:800px;overflow:hidden; background:#666">
+        </div>
+    </td>
+</tr>
+<tr>
+    <td valign="top" align="left" bgcolor="#F5F9FE">
+        <div style="height: 30px;width:820px; overflow: auto;padding: 5px 20px 5px 2px; text-align:right">
+            <span><script type="text/javascript">JS_INLAN("chnnum")</script></span>
+            <select id="subchannel_select">
+            </select>
+            <button type="button" style="width: 110px; height: 25px" onclick="GetCurrentFrame(this);" id="getframe"><script type="text/javascript">JS_INLAN("getframe")</script></button>
+        </div>
+    </td>
+</tr>
+<tr>
+    <td height="13px"  background="/graphics/boxbottom_850.gif">
+    </td>
+</tr>
+</table>
+</body>
+</html>

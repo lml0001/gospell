@@ -1,0 +1,10 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for 4KP60-LT6911UX-V1.cam'
+at 14:12:06 on 3-Aug-2018 
+
+
+'Bom Output 1'
+'BOM for 4KP60-LT6911UX-V1.txt' generated
+
+
+Total number of generated files = 1

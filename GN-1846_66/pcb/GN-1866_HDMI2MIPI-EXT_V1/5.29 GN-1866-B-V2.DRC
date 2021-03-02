@@ -1,0 +1,39 @@
+Protel Design System Design Rule Check
+PCB File : Documents\5.29 GN-1866-B-V2.pcb
+Date     : 29-May-2018
+Time     : 16:22:01
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (On the board ),(On the board )
+   Violation between Pad HK254-G(95.05283mm,-234.98997mm)  MultiLayer and                      Track (95.99399mm,-237.21501mm)(95.99399mm,-1.93203mm)  KeepOutLayer   
+   Violation between Pad HK253-G(95.05283mm,-117.99299mm)  MultiLayer and                      Track (95.99399mm,-237.21501mm)(95.99399mm,-1.93203mm)  KeepOutLayer   
+   Violation between Pad HK251-G(0.92784mm,-234.98997mm)  MultiLayer and                      Track (-0.01016mm,-236.55453mm)(-0.01016mm,-3.40735mm)  KeepOutLayer   
+   Violation between Pad HK252-G(0.92784mm,-117.99299mm)  MultiLayer and                      Track (-0.01016mm,-236.55453mm)(-0.01016mm,-3.40735mm)  KeepOutLayer   
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (Disabled)(On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (Disabled)(On the board ),(has footprint XTAL )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.8mm) (Disabled)(On the board ),(has footprint HDMI_SMD_G )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (Disabled)(Is a Polygon  ),(Is a Polygon  )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (Disabled)(On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1143mm) (Max=3mm) (Prefered=0.127mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:33

@@ -1,0 +1,71 @@
+/*UTF-8编码*/
+* 
+{
+	margin: 0;
+	padding: 0; 
+	vertical-align:middle;
+	white-space: normal;
+}
+
+/*让input和select空间的宽度和高度一致，否则就算设置成一样的，也不一定一样*/
+input
+{
+	box-sizing: border-box;
+}
+select
+{
+	box-sizing: border-box;
+}
+
+.chrome_center
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+a:link   {text-decoration: none;color: blue}
+a:visited{color: blue}
+a:hover  {text-decoration: underline;color: blue}
+a:active {text-decoration: none;color: blue}
+
+.config
+{
+	margin-top: 10px;
+}
+
+/*
+hr
+{
+	overflow:hidden;font-size:8px;
+}
+*/
+
+html 
+{
+	overflow-x: hidden;
+	overflow-y: auto;
+} 
+
+body  
+{
+	font-family: Arial, Helvetica, sans-serif, "宋体"; font-size: 9pt;
+    background-image: url(../graphics/bg001.gif);
+} 
+
+/*
+table
+  {
+   border:solid 1px #FF0000;
+  }
+
+td
+{
+   border:solid 1px #FF0000;
+}
+div
+{
+   border:solid 1px #FF0000;
+}
+*/
+
+
